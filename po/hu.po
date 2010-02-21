@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-03-10 22:59+0100\n"
-"PO-Revision-Date: 2009-03-10 22:59+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-02-02 15:31+0100\n"
+"Last-Translator: Kelemen Zoltán <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,38 +14,38 @@ msgstr ""
 #. [campaign]: id=Alfhelm_the_Wise
 #: Alfhelm/_main.cfg:10
 msgid "Alfhelm the Wise"
-msgstr ""
+msgstr "Bölcs Alfhelm"
 
 #. [campaign]: id=Alfhelm_the_Wise
 #: Alfhelm/_main.cfg:11
 msgid "AtW"
-msgstr ""
+msgstr "BA"
 
 #. [campaign]: id=Alfhelm_the_Wise
 #: Alfhelm/_main.cfg:16
 msgid "(easiest)"
-msgstr ""
+msgstr "(könnyű)"
 
 #. [campaign]: id=Alfhelm_the_Wise
 #. [unit_type]: id=Alfhelm Warrior, race=marauder
 #: Alfhelm/_main.cfg:16 Alfhelm/units/Alfhelm_Warrior.cfg:5
 msgid "Warrior"
-msgstr ""
+msgstr "Harcos"
 
 #. [campaign]: id=Alfhelm_the_Wise
 #: Alfhelm/_main.cfg:17
 msgid "Pillager"
-msgstr ""
+msgstr "Fosztogató"
 
 #. [campaign]: id=Alfhelm_the_Wise
 #: Alfhelm/_main.cfg:18
 msgid "(hardest)"
-msgstr ""
+msgstr "(nehéz)"
 
 #. [campaign]: id=Alfhelm_the_Wise
 #: Alfhelm/_main.cfg:18
 msgid "Scorcher"
-msgstr ""
+msgstr "Perzselő"
 
 #. [campaign]: id=Alfhelm_the_Wise
 #: Alfhelm/_main.cfg:25
@@ -61,11 +61,22 @@ msgid ""
 "(Intermediate level, 15 scenarios.)\n"
 "\n"
 msgstr ""
+"W. i. sz. 938-952\n"
+"    \n"
+" Ez a történet Alfhelmről, Hódító Alfric fiáról szól, akit egyesek csak úgy "
+"emlegettek, hogy A Bölcs. Az ő ellenségei felett aratott győzelmeit és "
+"Martalócország családjai közül való kiemelkedését beszéli el, s útját délre, "
+"a Laviniai Birodalom megsemmisítésére. S ez a történet beszéli el azt a "
+"végső elhatározását is, amely hazájától távol, a sötét erdők mélyén "
+"érlelődött meg benne.\n"
+"    \n"
+"(Középhaladó szint, 15 küldetés)\n"
+"\n"
 
 #. [scenario]: id=1_1_The_Seeress
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:10
 msgid "The Seeress"
-msgstr ""
+msgstr "A látnoknő"
 
 #. [side]: type=Alfhelm Warrior, id=Alfhelm
 #. [side]
@@ -96,7 +107,7 @@ msgstr ""
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:26
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:56
 msgid "Alflings"
-msgstr ""
+msgstr "Alflingek"
 
 #. [side]: type=Alfhelm Warrior, id=Alfhelm
 #. [side]: type=Marauder Warrior, id=Alfhelm
@@ -123,29 +134,29 @@ msgstr ""
 #: Alfhelm/scenarios/1_Epilogue.cfg:29
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:30
 msgid "Alfhelm"
-msgstr ""
+msgstr "Alfhelm"
 
 #. [unit]: type=Marauder Hunter, id=Harn
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:43
 msgid "Harn Bernson"
-msgstr ""
+msgstr "Harn Bernson"
 
 #. [side]: type=Magni Provocator Leonis, id=Praravus
 #. [side]: type=Magni Provocator, id=Graiukus
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:63
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:61
 msgid "Orcs"
-msgstr ""
+msgstr "Orkok"
 
 #. [side]: type=Magni Provocator, id=Graiukus
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:65
 msgid "Graiukus"
-msgstr ""
+msgstr "Graiukus"
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:78
 msgid "PART I (938-940 SI): TO GO TO WAR..."
-msgstr ""
+msgstr "I. rész (w. i. sz. 938-940): Háborús idők..."
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:82
@@ -153,6 +164,8 @@ msgid ""
 "My name is Alfhelm... Alfhelm the Wise, some call me. I don't know quite "
 "why. I wouldn't call myself wise. Clever, maybe. But not wise."
 msgstr ""
+"A nevem Alfhelm... Bölcs Alfhelm, ahogy egyesek neveznek. Nem igazán tudom, "
+"miért. Én nem tartom magam bölcsnek. Ügyesnek talán, de bölcsnek nem."
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:86
@@ -162,6 +175,9 @@ msgid ""
 "Lavinians were driven from that land. While my father lived, he taught he "
 "the art of war."
 msgstr ""
+"Hódító Alfric volt az apám, egy hatalmas martalóc úr. Anyám egy másik nemesi "
+"családból származott. Silvia városában születtem, negyven évvel azután, hogy "
+"a laviniaiakat elűztük innen. Amíg apám élt, tőle tanultam a harc művészetét."
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:91
@@ -170,6 +186,8 @@ msgid ""
 "from the Frost Elves. So that was our family; my parents, my sister, and "
 "myself."
 msgstr ""
+"Volt egy nővérem is. Fiatal volt még, nem érte el azt a kort, hogy a "
+"fagytündéktől mágiát tanuljon. Ez volt a családom, szüleim, nővérem és én."
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:95
@@ -178,6 +196,9 @@ msgid ""
 "housecarl Harn Bernson was left in charge of my education. He too was a "
 "great warrior, and I learned much from him."
 msgstr ""
+"Azután, amikor hét éves voltam, apám délre ment, Arendiában háborúzott. "
+"Nevelésemet a nádora, Harn Bernson vette át. Harn szintén kitűnő harcos "
+"volt, sokat tanultam tőle is."
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:100
@@ -185,6 +206,8 @@ msgid ""
 "That fall my father led the Marauders into battle against the Lavinians, in "
 "the hills next to the Arendian river."
 msgstr ""
+"Akkor ősszel a martalócok a laviniaiak ellen indultak, s az Arendia-folyó "
+"melletti dombon ütköztek meg velük."
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:104
@@ -193,11 +216,14 @@ msgid ""
 "for several months. Then, the battle began. It raged for five whole days, "
 "and in the end we were victorious."
 msgstr ""
+"A két sereg táborát a folyó választotta el. Hónapokig tartott a készülődés a "
+"seregek összegyűjtése. Aztán kezdetét vette a csata. Öt álló napon keresztül "
+"folyt az öldöklés, de végül győzelmet arattunk."
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:109
 msgid "But my father left his life on that battlefield."
-msgstr ""
+msgstr "De apám a csatatéren vesztette életét."
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:113
@@ -206,6 +232,9 @@ msgid ""
 "Without the might of his army protecting our family, they believed they "
 "could attack us with impunity."
 msgstr ""
+"Kis idővel a csata után érkezett meg a halálhíre. A sidhe tündék szintén "
+"értesültek róla. Apám védelmező karjának hiányában úgy gondolták, "
+"büntetlenül megtámadhatják a családunkat."
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:118
@@ -213,6 +242,8 @@ msgid ""
 "Soon, one night, they struck. Harn managed to get me out alive. My mother "
 "and sister were not so lucky."
 msgstr ""
+"S egy éjjel ránk törtek. Engem Harnnak sikerült élve kimenekítenie. Anyám és "
+"nővérem nem voltak ilyen szerencsések."
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:122
@@ -222,6 +253,10 @@ msgid ""
 "miserable existence, bullied both by other marauder clans and by the orcs "
 "living in the western mountains."
 msgstr ""
+"Harn délnyugatra, a családjához menekített egy kis határszéli faluba a vad "
+"lápvilágba. A falusiak nem voltak harcias népség. Ráadásul még a szomszédos "
+"martalóc családok és a nyugati hegyekben élő orkok is nehezítették "
+"nyomorúságos életüket."
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:126
@@ -231,12 +266,17 @@ msgid ""
 "not long before I was placed in charge of the few others who knew how to "
 "fight."
 msgstr ""
+"Könnyen kiérdemeltem a megbecsülésüket. A háborúskodások során kemény "
+"kiképzést kaptam apámtól, így könnyen a falu legjobb harcosává váltam. S nem "
+"sokkal később a kisszámú sereg vezetőjévé lettem. "
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:131
 msgid ""
 "It seemed for a while that this was to be my life. Uneventful, but safe."
 msgstr ""
+"Úgy tűnt, hogy ez a sors rendeltetett számomra. Eseménytelen, de "
+"biztonságos. "
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:136
@@ -244,6 +284,8 @@ msgid ""
 "Then, when I was twenty-four years old, I had a dream. I confess I did not "
 "understand it."
 msgstr ""
+"Amikor huszonnégy éves lettem, egy különös álmot láttam. Bevallom, "
+"egyáltalán nem értettem."
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:141
@@ -251,6 +293,8 @@ msgid ""
 "I asked Harn for advice in interpreting it. He said he did not know. But he "
 "knew someone who might."
 msgstr ""
+"Harnhoz fordultam, hogy segítsen értelmezni, de ő sem boldogult. De ismert "
+"valakit, aki talán tud segíteni."
 
 #. [part]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:146
@@ -259,13 +303,16 @@ msgid ""
 "representatives in Alfenheim. But there was one who lived alone, in a small "
 "hut, a few days journey from the town."
 msgstr ""
+"Akkoriban nem voltak álomfejtők a faluban. Jelentéktelen méreténél fogva nem "
+"vonzott egyetlen egyet sem. De néhány napi járóföldre, egy kis kunyhóban élt "
+"egy magányos látnoknő."
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:163
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:256
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:548
 msgid "Bring Alfhelm next to the house of the Seeress"
-msgstr ""
+msgstr "Alfhelm eljut a látnoknő házához"
 
 #. [objective]: condition=lose
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:91
@@ -301,7 +348,7 @@ msgstr ""
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:186
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:218
 msgid "Death of Alfhelm"
-msgstr ""
+msgstr "Alfhelm meghal"
 
 #. [objective]: condition=lose
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:292
@@ -326,29 +373,29 @@ msgstr ""
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:409
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:556
 msgid "Death of Harn Bernson"
-msgstr ""
+msgstr "Harn Bernson meghal"
 
 #. [label]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:181
 msgid "Bernshold"
-msgstr ""
+msgstr "Bernshold"
 
 #. [label]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:185
 msgid "House of the Seeress"
-msgstr ""
+msgstr "A látnoknő háza"
 
 #. [label]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:189
 msgid "Forest Road"
-msgstr ""
+msgstr "Erdei út"
 
 #. [label]
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:101
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:193
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:197
 msgid "To Allied Villages"
-msgstr ""
+msgstr "Szövetséges falvak felé"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:203
@@ -357,11 +404,14 @@ msgid ""
 "have known. She is not to be consulted lightly. If yours is not a true "
 "portent, she will not look kindly upon your intrusion."
 msgstr ""
+"Nos, fiam értsd meg. Ez a látnoknő a leghatalmasabb, akit ismerek. Nem "
+"osztogatja könnyedén a tanácsait. Ha valami jelentéktelen aprósággal "
+"zavarod, akkor ne is számíts kedvező fogadtatásra a részéről."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:207
 msgid "I understand. But I am sure. There is nothing else it could be."
-msgstr ""
+msgstr "Értem, de biztos vagyok a dolgomban. Ez nem lehet csip-csup ügy."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:211
@@ -372,6 +422,11 @@ msgid ""
 "visitor, let alone an army. And you'd better hurry - prophecies have a "
 "tendency of disappearing from memory."
 msgstr ""
+"Jól van, innen délnyugatra találod őt. Haladj az úton délre, majd hamarosan "
+"egy földúthoz érsz. Kövesd ezt a mocsáron keresztül, s rövidesen eléred a "
+"házát. De egyedül kell menned - ritkán fogad valakit, de csapatot soha. És "
+"jól teszed, ha igyekszel - a látomások gyorsan kitörlődnek az ember "
+"memóriájából."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:215
@@ -380,87 +435,91 @@ msgid ""
 "You cannot leave them alone without defense while you go off questing. And "
 "there are rumors of orcs rearming in the mountains."
 msgstr ""
+"S még valami. Tetszik, nem tetszik, te vagy a legjobb harcosunk. Nem "
+"hagyhatod sokáig védtelenül a falut, míg a kérdéseidre keresed a választ. Az "
+"a hír járja, hogy az orkok mozgolódnak a környező hegyekben."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:219
 msgid "Very well. Fare well, Harn."
-msgstr ""
+msgstr "Rendben Harn! Isten veled!"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:234
 msgid "What is this? Orcs are attacking!"
-msgstr ""
+msgstr "Mi ez? Támadnak az orkok!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:238
 msgid "They look to me merely like escaped gladiators from Lavinia."
-msgstr ""
+msgstr "Úgy látom, hogy Laviniából megszökött gladiátorok."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:242
 msgid "Yes, but they are still fierce fighters. We must defend the village."
-msgstr ""
+msgstr "De attól még kemény harcosok. Meg kell védenünk a falut."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:246
 msgid "But I must continue on to the Seeress. Resist them until I return."
 msgstr ""
+"De nekem a látnoknőhöz kell mennem. Tartsátok fel őket, míg visszatérek!"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:250
 msgid "Very well. Let no orc pass the palisade!"
-msgstr ""
+msgstr "Jól van, nem léphet ork a palánkok mögé!"
 
 #. [objectives]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:254
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:395
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:546
 msgid "The village is defined as any of the four houses inside the palisade"
-msgstr ""
+msgstr "A faluhoz a palánkokon belüli négy ház tartozik"
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:260
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:401
 msgid "Defend the village"
-msgstr ""
+msgstr "Megvéded a falut"
 
 #. [objective]: condition=lose
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:272
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:413
 msgid "Entry of orcs into the village"
-msgstr ""
+msgstr "Egy ork elfoglalja a falu valamelyik házát"
 
 #. [unit]: id=Ranhilde, type=Marauder Seeress
 #. [message]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:287
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:507
 msgid "Ranhilde"
-msgstr ""
+msgstr "Ranhilde"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:298
 msgid "Who is it that disturbs me?"
-msgstr ""
+msgstr "Ki zavar?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:302
 msgid "I am Alfhelm, son of Alfric the Conqueror!"
-msgstr ""
+msgstr "Alfhelm vagyok, Hódító Alfric fia!"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:306
 msgid "And am I meant to be impressed?"
-msgstr ""
+msgstr "És akkor most ájuljak el?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:310
 msgid "Um..."
-msgstr ""
+msgstr "Öö..."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:314
 msgid "Why have you come, Alfhelm? What do you seek from me?"
-msgstr ""
+msgstr "Miért jöttél, Alfhelm? Mit keresel itt, ahol a madár se jár?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:318
@@ -468,17 +527,21 @@ msgid ""
 "A few days ago, I had a dream. I believe it may have been... more than a "
 "mere dream."
 msgstr ""
+"Pár napja egy álmot láttam. Úgy hiszem, hogy... szóval nem egy egyszerű álom "
+"volt."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:322
 msgid ""
 "As do many. Yet for most, they are still but dreams. Why are you different?"
 msgstr ""
+"Ahogy más álmok sem. A legtöbb ember azt hiszi, hogy az ő álma nem egyszerű. "
+"A tiéd miért különleges? "
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:326
 msgid "My father was a great warlord. My wierd is not that of the many."
-msgstr ""
+msgstr "Apám egy hatalmas hadúr volt. Az én sorsom nem közönséges."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:330
@@ -486,6 +549,8 @@ msgid ""
 "Spoken like the prideful son a dead man. But if you insist, tell me. What "
 "was your dream?"
 msgstr ""
+"Pont úgy beszélsz, mint egy halott hős gőgös fia. De ha ragaszkodsz hozzá, "
+"meséld el az álmod. Tehát?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:334
@@ -493,6 +558,8 @@ msgid ""
 "It was night, and a man was walking through the woods with a giant eagle at "
 "his side. The eagle flew, as if to hunt, and descended upon a bluish wolf."
 msgstr ""
+"Éjszaka volt, egy ember sétált az erdőben, a vállán egy óriás sas ült. A sas "
+"felszállt, majd lecsapott egy kékesszürke farkasra."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:338
@@ -501,21 +568,24 @@ msgid ""
 "the eagle was wounded, and another wolf came out of the trees and finished "
 "what its father had started."
 msgstr ""
+"A farkas is megragadta a sast, és birokra keltek. A farkas elpusztult, de a "
+"sas is súlyos sebet szerzett. Aztán egy másik farkas jött elő és befejezte, "
+"amit az apja elkezdett."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:342
 msgid "In truth, you saw this? Strange..."
-msgstr ""
+msgstr "Tényleg ezt láttad? Különös..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:348
 msgid "But what does it mean?"
-msgstr ""
+msgstr "De mit jelent?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:352
 msgid "What? Oh, its meaning? Can you not see?"
-msgstr ""
+msgstr "Mit? Mit jelent? Hát nem látod?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:356
@@ -524,6 +594,9 @@ msgid ""
 "wounded it enough for you to triumph against it. You saw yourself slay it? "
 "Then in life, you shall slay it."
 msgstr ""
+"A sas a Laviniai Birodalom. Atyád életét vesztette ellenük, de "
+"meggyengítette őket annyira, hogy te legyőzheted őket. Láttad, hogy "
+"megtetted. Tehát a való életben is megteheted."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:360
@@ -531,11 +604,13 @@ msgid ""
 "The man who walks with the Empire... I do not know this. But it is not "
 "important. What matters is that you will defeat Lavinium."
 msgstr ""
+"Az ember, aki a Birodalommal sétált... Ezt nem tudom, ki lehet. De ez nem is "
+"fontos. Ami számít, hogy meg fogod semmisíteni Laviniumot."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:364
 msgid "So... what should I do?"
-msgstr ""
+msgstr "Vagyis... mit kell tennem?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:368
@@ -544,11 +619,14 @@ msgid ""
 "Lead them, and they will follow you. Before we go to Lavinia, we must go "
 "north, and convince the other clans to unite under your banner."
 msgstr ""
+"Sereget kell gyűjtenünk. Ez a falu - nem elég nagy. De kezdetnek megteszi. "
+"Állj az élükre, követni fognak. Mielőtt Lavinia ellen vonulunk, északra kell "
+"mennünk és meggyőznünk a többi családot is, hogy csatlakozzanak hozzánk."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:372
 msgid "Wait. 'We'?"
-msgstr ""
+msgstr "Várj csak! 'Hozzánk'?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:376
@@ -558,36 +636,40 @@ msgid ""
 "me, I will come with you, to see for myself how the augury I have given you "
 "will come true."
 msgstr ""
+"Úgy értem... Soha ezelőtt nem találkoztam igazi jövendöléssel. Kétlem, hogy "
+"valaha is találkozni fogok ilyen lehetőséggel. A látnoknő hozzákapcsolódik a "
+"látomáshoz, amit értelmez... Tehát csatlakozom hozzád, hogy veled járva "
+"lássam, hogy a jóslat, amit modtam, valóra válik-e?  "
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:380
 msgid "Very well. Follow me, back to the village."
-msgstr ""
+msgstr "Rendben. Csatlakozz hozzám, térjünk vissza a faluba!"
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:397
 msgid "Bring Alfhelm and the Seeress back to the village"
-msgstr ""
+msgstr "Alfhelm és a látnoknő visszatér a faluba"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:483
 msgid "The orcs have taken the village!"
-msgstr ""
+msgstr "Az orkok betörtek a faluba!"
 
 #. [message]: speaker=Harn
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:504
 msgid "Wait! You shouldn't have -"
-msgstr ""
+msgstr "Várj! Ne törj be..."
 
 #. [message]
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:508
 msgid "You dare to enter my house uninvited? Die, villager!"
-msgstr ""
+msgstr "Hívatlanul betörtél a házamba? Meghalsz, otromba alak! "
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:532
 msgid "Good, we've driven the orcs back!"
-msgstr ""
+msgstr "Nagyszerű, legyőztük az orkokat!"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_1_The_Seeress.cfg:542
@@ -595,31 +677,33 @@ msgid ""
 "Good, we've driven the orcs back! But you still have to talk the the Seeress "
 "before your memory of the dreams wears thin..."
 msgstr ""
+"Nagyszerű, legyőztük az orkokat! De siess a látnoknőhöz, nehogy kimenjen a "
+"fejedből a látomás..."
 
 #. [scenario]: id=1_2_A_Warriors_Destiny
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:7
 msgid "A Warrior's Destiny"
-msgstr ""
+msgstr "A harcos végzete"
 
 #. [side]: type=Marauder Hunter, id=Rym
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:40
 msgid "Allied Villages"
-msgstr ""
+msgstr "Szövetséges falvak"
 
 #. [side]: type=Marauder Hunter, id=Rym
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:46
 msgid "Rym Gyrthsson"
-msgstr ""
+msgstr "Rym Gyrthsson"
 
 #. [side]: type=Marauder Raider, id=Form
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:62
 msgid "Form Fjomarsson"
-msgstr ""
+msgstr "Form Fjomarsson"
 
 #. [side]: type=Marauder Hunter, id=Sjald
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:79
 msgid "Sjald Sjoldsson"
-msgstr ""
+msgstr "Sjald Sjoldsson"
 
 #. [part]
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:88
@@ -627,6 +711,8 @@ msgid ""
 "So I was fated to go south and conquer Lavinium... very well. But first I "
 "needed an army."
 msgstr ""
+"Szóval a sorsom az, hogy délre vonuljak és elfoglaljam Laviniumot... úgy "
+"legyen. De először sereget kell toboroznom."
 
 #. [part]
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:92
@@ -635,16 +721,20 @@ msgid ""
 "went southeast, to the three nearest of these - Rythgaard, Frjothold, and "
 "Sjoldenheim."
 msgstr ""
+"Először a lápvidék falvainak segítségét kellett megnyernünk. Délkelet felé "
+"indultunk, hogy a három legközelebbiét megszerezzük - Rythgaardét, "
+"Frjotholdét és Sjoldenheimét. "
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:111
 msgid "Bring Rythgaard, Frjothold, and Sjoldenheim to your banner"
-msgstr ""
+msgstr "Rythgaard, Frjothold és Sjoldenheim népe csatlakozik hozzád"
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:115
 msgid "(Defeat each enemy leader to convince them to ally with you)"
 msgstr ""
+"(Az ellenséges vezérek legyőzésével eléred, hogy szövetségre lépjenek veled)"
 
 #. [objective]: condition=lose
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:296
@@ -665,82 +755,82 @@ msgstr ""
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:87
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:127
 msgid "Death of Ranhilde"
-msgstr ""
+msgstr "Ranhilde meghal"
 
 #. [label]
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:137
 msgid "Rythgaard"
-msgstr ""
+msgstr "Rythgaard"
 
 #. [label]
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:141
 msgid "Frjothold"
-msgstr ""
+msgstr "Frjothold"
 
 #. [label]
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:145
 msgid "Sjoldenheim"
-msgstr ""
+msgstr "Sjoldenheim"
 
 #. [label]
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:149
 msgid "To Bernshold"
-msgstr ""
+msgstr "Bernshold felé"
 
 #. [label]
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:153
 msgid "Old River Fort"
-msgstr ""
+msgstr "Öreg folyami erőd"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:165
 msgid "Greetings, friends!"
-msgstr ""
+msgstr "Üdvözlet, barátaim!"
 
 #. [message]: id=Rym
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:169
 msgid "Hail, Harn Bernson. What're you doing here?"
-msgstr ""
+msgstr "Isten hozott, Harn Bernson. Mi járatban errefelé?"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:173
 msgid "I come with the son of Al... of a friend of mine."
-msgstr ""
+msgstr "Látogatóba jöttünk Alf... egy barátommal."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:177
 msgid "I am Alfhelm, son of Alfric the Conqueror."
-msgstr ""
+msgstr "Alfhelm vagyok, Hódító Alfric fia."
 
 #. [message]: id=Form
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:181
 msgid "Oh are you now? What of it?"
-msgstr ""
+msgstr "Tényleg te vagy az? Mi a manó?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:185
 msgid "I am raising an army. I intend to finish what my father started."
-msgstr ""
+msgstr "Sereget gyűjtök. Be kívánom fejezni apám művét."
 
 #. [message]: id=Sjald
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:189
 msgid "What, you? Why d'you think you'll be able to do that?"
-msgstr ""
+msgstr "Mit? Miből gondolod, hogy képes lennél  a művet befejezni?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:193
 msgid "Because it has been foretold."
-msgstr ""
+msgstr "Mert ez a sorsa."
 
 #. [message]: id=Rym
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:197
 msgid "I... and... um... who are you?"
-msgstr ""
+msgstr "Ig... és hm, te ki vagy?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:201
 msgid "A seeress, trained in Alfenheim."
-msgstr ""
+msgstr "Egy alfenheimi látnoknő."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:205
@@ -748,21 +838,25 @@ msgid ""
 "But this is not what we are here for. What we want to know is - will you "
 "join me?"
 msgstr ""
+"De nem azért jöttünk, hogy szócséplést folytassunk. Azt akarjuk, hogy "
+"csatlakozzatok hozzám."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:209
 msgid "Us."
-msgstr ""
+msgstr "Hozzánk."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:213
 msgid "Uh, right, us. Well?"
-msgstr ""
+msgstr "Öh, igen, hozzánk. Tehát?"
 
 #. [message]: id=Sjald
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:217
 msgid "What proof have we you will succeed? This plan sounds foolish at best."
 msgstr ""
+"S mivel bizonyítod, hogy sikerrel jársz? Ez a terv jó esetben is "
+"bolondságnak tűnik."
 
 #. [message]: id=Rym
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:221
@@ -770,11 +864,13 @@ msgid ""
 "Indeed. We have no desire to rebel against the great houses only to be "
 "crushed down even lower than we already are."
 msgstr ""
+"Ez igaz. Nem akarunk fellázadni a nagy családok ellen csak azért, hogy "
+"leverjenek, s még mélyebbre süllyedjünk."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:225
 msgid "What can I do to convince you?"
-msgstr ""
+msgstr "Mivel tudlak meggyőzni benneteket?"
 
 #. [message]: id=Form
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:229
@@ -782,60 +878,66 @@ msgid ""
 "I do not know about Sjald and Rym, but if you can defeat my men in a "
 "tourney, Frjothold will join you."
 msgstr ""
+"Nem nyilatkozhatok Sjald és Rym nevében, de ha legyőzöd az embereimet, "
+"Frjothold csatlakozik hozzád. "
 
 #. [message]: id=Sjald
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:233
 msgid "That would satisfy me as well, if you desire the aid of Sjoldenheim."
 msgstr ""
+"Ugyanez számomra is megfelelőnek tűnik, ha Sjoldenheim csatlakozását is "
+"akarod."
 
 #. [message]: id=Rym
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:237
 msgid "And also Rythgaard."
-msgstr ""
+msgstr "Rythgaard is megfogadja ezt."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:241
 msgid "Very well! Let us not delay."
-msgstr ""
+msgstr "Akkor rajta, ne késlekedjünk!"
 
 #. [message]: id=Rym
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:255
 msgid ""
 "You are more skilled than I expected! Rythgaard will gladly join with you."
 msgstr ""
+"Sokkal felkészültebb vagy, mint gondoltam! Rythgaard örömmel csatlakozik "
+"hozzád!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:312
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:385
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:459
 msgid "It is decided, then!"
-msgstr ""
+msgstr "Tehát eldöntetett!"
 
 #. [message]: id=Form
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:329
 msgid "Very well. A bargain is a bargain; Frjothold is at your command."
-msgstr ""
+msgstr "Rendben van, az üzlet az üzlet; rendelkezz Frjothold seregével!"
 
 #. [message]: id=Sjald
 #: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:402
 msgid ""
 "This is proof enough for me. Sjoldenheim will fight for Alfhelm Alfricsson!"
-msgstr ""
+msgstr "Meggyőztél. Sjoldenheim Alfric fia Alfhelmért fog harcolni!"
 
 #. [scenario]: id=1_3_Out_of_the_Swamps
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:7
 msgid "Out of the Swamps"
-msgstr ""
+msgstr "A lápvidéken túl"
 
 #. [side]: type=Marauder Scorcher, id=Gardi
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:39
 msgid "Gyrdlings"
-msgstr ""
+msgstr "Gyrdlingek"
 
 #. [side]: type=Marauder Scorcher, id=Gardi
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:45
 msgid "Gardi Gwyrsson"
-msgstr ""
+msgstr "Gardi Gwyrsson"
 
 #. [part]
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:51
@@ -844,6 +946,9 @@ msgid ""
 "invade Lavinia with only a few Marauder peasants at your back - so Ranhilde "
 "and Harn told me."
 msgstr ""
+"A seregünk, ha nevezhetjük így, egyre gyarapodott. De Laviniát nem "
+"rohamozhatod meg, ha a hátadat csak néhány martalóc paraszt biztosítja - ezt "
+"Ranhilde és Harn mondta nekem."
 
 #. [part]
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:55
@@ -852,26 +957,29 @@ msgid ""
 "have to bring villages to our side one by one. Our next target was Gardi, "
 "the lord of the swamplands."
 msgstr ""
+"A martalóc családok szövetsége bonyolult kérdés, és egy erős szövetség "
+"létrehozása érdekében a falvakat egyesével kellett az oldalunkra állítanunk. "
+"Következő célpontunk Gardi volt, a lápvidék ura."
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:75
 msgid "Defeat Gardi"
-msgstr ""
+msgstr "Legyőzöd Gardit"
 
 #. [label]
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:97
 msgid "Gyrdlingford"
-msgstr ""
+msgstr "Gyrdling-gázló"
 
 #. [label]
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:105
 msgid "To Northern Villages"
-msgstr ""
+msgstr "Az északi falvak felé"
 
 #. [label]
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:109
 msgid "To Berdssenhold"
-msgstr ""
+msgstr "Berdssenhold felé"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:121
@@ -879,11 +987,13 @@ msgid ""
 "We have come to the land of Gardi, lord of the Gyrdling clan. We must "
 "convince him to join us... whether by words, or by the sword."
 msgstr ""
+"Megérkeztünk Gardi, a Gyrdling-család fejének földjére. Meg kell győznünk "
+"őt, hogy csatlakozzon hozzánk... szépszerével vagy erővel."
 
 #. [message]: id=Gardi
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:125
 msgid "Halt! What force of arms comes to the land of Gardi?"
-msgstr ""
+msgstr "Megállj! Ki az, aki fegyverrel közeledik Gardi földjéhez?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:129
@@ -891,6 +1001,8 @@ msgid ""
 "Greetings, lord of the house of Gyrdlings! I bring greetings from the Bern "
 "clan, and a proposition."
 msgstr ""
+"Üdvözöllek, Gardi, a Gyrdling család feje! A Bern család üdvözletét hozom, "
+"és egy ajánlatot."
 
 #. [message]: id=Gardi
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:133
@@ -898,6 +1010,8 @@ msgid ""
 "What sort of a proposition? And who are you that speaks with authority and "
 "yet is so young?"
 msgstr ""
+"Miféle ajánlatot? És ki vagy te, hogy ifjú korod ellenére egy család nevében "
+"beszélsz?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:137
@@ -905,6 +1019,8 @@ msgid ""
 "I am Alfhelm, son of Alfric the Conqueror. I am raising an army to wage war "
 "on Lavinium. Will your clan join me?"
 msgstr ""
+"Alfhelm vagyok, Hódító Alfric fia. Lavinium meghódítására gyűjtök sereget. "
+"Csatlakoztok hozzánk?"
 
 #. [message]: id=Gardi
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:141
@@ -912,6 +1028,8 @@ msgid ""
 "An army? You call what you have an army? If that's all you have, no I won't "
 "join you. You'll be slaughtered!"
 msgstr ""
+"Sereget? A téged követő bandát nevezed seregnek? Ha csak ennyit tudsz "
+"felmutatni, akkor nem csatlakozunk. Leszámolunk veletek!"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:145
@@ -919,6 +1037,8 @@ msgid ""
 "Watch your words, Gardi. You speak to the son of the thain who defeated "
 "those Lavinian dogs."
 msgstr ""
+"Válogasd meg a szavaidat, Gardi. Egy nagy hadvezér fiával beszélsz, az apja "
+"legyőzte a laviniai kutyákat."
 
 #. [message]: id=Gardi
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:149
@@ -926,11 +1046,14 @@ msgid ""
 "That was his father, not him. I accord him no respect - he has lived his "
 "whole life in your wattle-and-daub huts, Harn."
 msgstr ""
+"Az apja igen, de ő nem. Miért kéne tisztelnem - egész életét a te sárfalú "
+"vesszőkunyhóidban töltötte, Harn."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:153
 msgid "Very well. If you will not join us, fine. But your clan will."
 msgstr ""
+"Ha nem, hát nem. Ha te nem csatlakozol, a családod fog, miután meghaltál."
 
 #. [message]: id=Gardi
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:157
@@ -940,38 +1063,41 @@ msgid ""
 "the only one with eld magic on your side! I will not be threatened by "
 "Alfric's brat!"
 msgstr ""
+"Ó, látom... van egy jósnő is veled. Gondolom ő jósolta meg, hogy meghódítod "
+"a világot, vagy valami ilyesfélét. Nos, meglátod majd, hogy az ősi mágia nem "
+"csak veled van. Nem félek Alfric kölykétől! "
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:162
 msgid "This is your choice, Gardi! Prepare for battle."
-msgstr ""
+msgstr "Magad választottad a sorsodat, Gardi! Készülj a csatára!"
 
 #. [message]: id=Gardi
 #: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:176
 msgid "May the curse of Thuran be upon you..."
-msgstr ""
+msgstr "Thuran átka szálljon a fejedre..."
 
 #. [scenario]: id=1_4_For_Honor
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:7
 msgid "For Honor"
-msgstr ""
+msgstr "Becsületbeli ügy"
 
 #. [side]: type=Marauder Lord, id=Ard
 #. [side]: type=Marauder Woodsman, id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:40
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:57
 msgid "Berdlings"
-msgstr ""
+msgstr "Berdlingek"
 
 #. [side]: type=Marauder Lord, id=Ard
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:46
 msgid "Ard Bardssen"
-msgstr ""
+msgstr "Ard Bardssen"
 
 #. [side]: type=Marauder Woodsman, id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:63
 msgid "Erda Bardssen"
-msgstr ""
+msgstr "Erda Bardssen"
 
 #. [side]: type=Wild Elf Dark Thunderblade, id=Vaniyera
 #. [side]: type=Wild Elf Tempest, id=Ayslinn
@@ -982,14 +1108,14 @@ msgstr ""
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:74
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:39
 msgid "Sidhe"
-msgstr ""
+msgstr "Sidhék"
 
 #. [side]: type=Wild Elf Dark Thunderblade, id=Vaniyera
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:56
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:47
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:81
 msgid "Vaniyera"
-msgstr ""
+msgstr "Vaniyera"
 
 #. [part]
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:88
@@ -998,6 +1124,9 @@ msgid ""
 "Ranhilde said this was due to fate; but I think it was because they knew we "
 "were true warriors."
 msgstr ""
+"Így aztán a seregünk szépen gyarapodott. Harc nélkül is csatlakoztak "
+"hozzánk. Ranhilde szerint a sors keze, szerintem viszont inkább a mi kezünk "
+"volt benne, vagyis a győztes harcainknak köszönhettük a növekedést."
 
 #. [part]
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:92
@@ -1007,6 +1136,10 @@ msgid ""
 "defeat Lavinium. Ranhilde suggested we travel towards the heart of "
 "Marauderdom, and build up our alliance from there."
 msgstr ""
+"Első évben a Martalóc-erdőség délnyugati részén tanyáztunk. Hiába élt itt "
+"számos család - közel sem tudtak annyi harcost kiállítani, hogy elfoglaljuk "
+"Laviniumot. Ranhilde javaslatára Martalócország szívébe hatoltunk be, s ott "
+"növeltük tovább a szövetség erejét."
 
 #. [part]
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:96
@@ -1014,24 +1147,28 @@ msgid ""
 "The Berdlings had supported my father in his lifetime, and my own house was "
 "no more... it was only logical to go ask the Berdlings for their help."
 msgstr ""
+"A Bardlingek támogatták atyámat életében, bár a családunk már sehol sem "
+"volt... természetesnek látszott, hogy a Bardlingek segítségét kérjük."
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:116
 msgid "Defeat Ard and Erda Bardssen"
-msgstr ""
+msgstr "Legyőzöd Ard és Erda Bardssent"
 
 #. [scenario]: id=1_4t_Berdssenhold
 #. [label]
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:7
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:138
 msgid "Berdssenhold"
-msgstr ""
+msgstr "Berdssenhold"
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:161
 msgid ""
 "Look, brother! An army approaches us. It appears to be Alfhelm. Now, I say -"
 msgstr ""
+"Nézd csak, testvérem! Egy sereg tart mifelénk. Alighanem Alfhelm közeledik. "
+"Azt hiszem, hogy -"
 
 #. [message]: id=Ard
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:165
@@ -1039,32 +1176,34 @@ msgid ""
 "Let's get this right. He gets one chance. If he refuses to join us, we kill "
 "him."
 msgstr ""
+"Remek, használjuk ki az alkalmat! Kap egy esélyt. Ha nem csatlakozik "
+"hozzánk, meghal. "
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:169
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:258
 msgid "But -"
-msgstr ""
+msgstr "De -"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:191
 msgid "Hail, sons of Bard! We come from the southwestern lands."
-msgstr ""
+msgstr "Üdv, Bard fiai! Délnyugatról jöttünk."
 
 #. [message]: id=Ard
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:195
 msgid "So! It is you, Alfhelm. Well, we have a proposition for you."
-msgstr ""
+msgstr "Úgy! Te vagy, Alfhelm. Nagyszerű, van egy ajánlatunk a számodra."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:199
 msgid "You have a proposition for me? What could that possibly be?"
-msgstr ""
+msgstr "Egy ajánlatotok a számomra? S vajon miféle ajánlat?"
 
 #. [message]: id=Ard
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:203
 msgid "Join us, or die."
-msgstr ""
+msgstr "Csatlakozz hozzánk, vagy meghalsz!"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:207
@@ -1072,16 +1211,18 @@ msgid ""
 "Amusing... you know, we also have a proposition to make. You join us, or you "
 "will die."
 msgstr ""
+"Jó vicc... tudod nekünk is van egy ajánlatunk a te számodra. Te csatlakozz "
+"hozzánk, vagy te halsz meg!"
 
 #. [message]: id=Ard
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:211
 msgid "Hah! Well, prepare for battle!"
-msgstr ""
+msgstr "Bahh! Úgy, akkor készülj a csatára!"
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:215
 msgid "Yeah. Um, prepare for battle..."
-msgstr ""
+msgstr "Hát... Hm, készülj a csatára..."
 
 #. [message]: id=Vaniyera
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:234
@@ -1089,6 +1230,8 @@ msgid ""
 "Well! I see that the marauder dogs are busy fighting each other. Good, they "
 "will be distracted. Attack them!"
 msgstr ""
+"Remek! Látom a martalóc kutyák egymás torkának estek. Most el vannak "
+"foglalva. Támadjuk le őket!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:238
@@ -1096,11 +1239,13 @@ msgid ""
 "Wait? Where does that voice come from? It could only be that of Sidhe "
 "Thunderblade! What does a thunderblade do in these parts?!"
 msgstr ""
+"Várjatok! Mi ez a hang? Ez csak egy sidhe mennydörgő pengétől származhat! "
+"Mit keres egy mennydörgőpengés ezen a tájon?"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:242
 msgid "It sounds like that of Vaniyera... he who slew your father."
-msgstr ""
+msgstr "Ez arra a Vaniyerára emlékeztet... aki megölte atyádat."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:246
@@ -1108,11 +1253,13 @@ msgid ""
 "Look, Bardlings, the elves are our mutual enemies. Why should we fight each "
 "other as they attack us?"
 msgstr ""
+"Nézzétek, Bardlingek, a tündék közös ellenségeink. Miért harcolunk egymás "
+"ellen, amikor tündék támadnak ránk?"
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:250
 msgid "He makes a good point. A thunderblade has no business here. I -"
-msgstr ""
+msgstr "Igaza van. Semmi keresnivalója egy mennydörgőpengésnek errefelé. Én -"
 
 #. [message]: id=Ard
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:254
@@ -1121,11 +1268,14 @@ msgid ""
 "doesn't, he dies like the elves. I won't have some upstart swamp-dweller "
 "fight as my equal!"
 msgstr ""
+"Nem, nincs igaza! Ha behódol nekünk, akkor harcolhat mellettünk - ha nem, "
+"ugyanúgy meghal, mint a tündék. Jöttment mocsárlakók ne képzeljék magukat "
+"egyenlőnek velünk."
 
 #. [message]: id=Ard
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:262
 msgid "You're a Bardling, Erda. Where's you're pride?!"
-msgstr ""
+msgstr "Te egy Bardling vagy, Erda! Hol marad a büszkeséged?"
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:266
@@ -1133,6 +1283,9 @@ msgid ""
 "But why shouldn't we fight this thunderblade - it'll be hard enough to deal "
 "with him on his own, damn it - then come to terms with this Alfhelm?"
 msgstr ""
+"De miért ne harcolhatnánk ez ellen a mennydörgőpengés ellen - kemény diónak "
+"ígérkezik elbánni vele, a pokolba is - aztán foglalkozhatunk ezzel az "
+"Alfhelmmel is."
 
 #. [message]: id=Ard
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:270
@@ -1140,6 +1293,8 @@ msgid ""
 "You can fight alongside those peasants like a dog - but I won't. And if they "
 "set foot in this castle, you will pay for it."
 msgstr ""
+"Te harcolhatsz ezekkel a parasztokkal, mint a kutyájuk, de én nem fogok. S "
+"ha beteszik a lábukat a kastélyomba, te is megbánod!"
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:274
@@ -1147,45 +1302,47 @@ msgid ""
 "Very well. You may fight Alfhelm, but I won't. And if you try to force me, I "
 "will fight you."
 msgstr ""
+"Nagyszerű, te harcolhatsz Alfhelm ellen, de én nem fogok. S ha kényszeríteni "
+"akarsz, ellenállok."
 
 #. [objectives]
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:282
 msgid "Do not enter the castle of Ard Bardssen"
-msgstr ""
+msgstr "Ne lépj Ard Bardssen kastélyába!"
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:280
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:388
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:284
 msgid "Defeat Vaniyera"
-msgstr ""
+msgstr "Legyőzöd Vaniyerát"
 
 #. [objective]: condition=lose
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:300
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:429
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:593
 msgid "Death of Erda Bardssen"
-msgstr ""
+msgstr "Erda Bardssen meghal"
 
 #. [message]: id=Ard
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:388
 msgid "The Alfling is entering the city! This is your fault, Erda!"
-msgstr ""
+msgstr "Az Alfling belépett a kastélyomba! Véged van, Erda!"
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:392
 msgid "that's absurd!"
-msgstr ""
+msgstr "Ez elképesztő!"
 
 #. [message]: id=Ard
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:396
 msgid "Nonetheless you shall die for it!"
-msgstr ""
+msgstr "Nincs kecmec, meghalsz, Erda!"
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:400
 msgid "This is madness! Very well, brother, we shall fight!"
-msgstr ""
+msgstr "Ez őrültség, testvérem. De ha ezt akarod, akkor harcra fel!"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:404
@@ -1193,11 +1350,13 @@ msgid ""
 "It seems Ard Bardssen is irredeemably our enemy... we must kill him to have "
 "any hope of alliance with the Berdssen house!"
 msgstr ""
+"Úgy látszik, Ard Bardssen mindenáron az ellenségünk... Meg kell ölnünk őt, "
+"hogy a családja csatlakozzon hozzánk!"
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:413
 msgid "Defeat Vaniyera and Ard Bardssen"
-msgstr ""
+msgstr "Legyőzöd Vaniyerát és Ard Bardssent"
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:456
@@ -1205,11 +1364,13 @@ msgid ""
 "Dammit, brother! I did not intend your death, but you brought it upon "
 "yourself."
 msgstr ""
+"A fene egye meg, testvérem! Nem én akartam a halálodat, magad hoztad a "
+"fejedre a bajt!"
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:462
 msgid "Aigh! My brother, he falls! You will pay for this, elf!"
-msgstr ""
+msgstr "Jajj! A testvérem, elesett. Ezért megfizetsz, tünde! "
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:468
@@ -1217,41 +1378,44 @@ msgid ""
 "As for you, Alfhelm... we have much to discuss. I only do not slay you "
 "because of these elves here."
 msgstr ""
+"Azt hiszem, Alfhelm... sok mindent meg kell beszélnünk. Csak azért kímélem "
+"meg az életedet, mert ezek a tündék itt ólálkodnak."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:472
 msgid "Fine. We will have a council. After we get rid of these elves."
-msgstr ""
+msgstr "Jól van. Tartsunk tanácskozást, miután végeztünk ezekkel a tündékkel!"
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:476
 msgid "Back to the battle, then! We are allies - for now."
-msgstr ""
+msgstr "Akkor vissza a csatába! Szövetséget kötöttünk - egyelőre!"
 
 #. [message]: role=coward
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:492
 msgid "It seems Ard Bernssen has fallen... well then, long live Erda Berdssen!"
-msgstr ""
+msgstr "Úgy látszik, Ard Bardssen elesett... akkor, éljen Erda Bardssen!"
 
 #. [message]: id=Ard
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:515
 msgid "Arrgh..."
-msgstr ""
+msgstr "Arrgh..."
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:519
 msgid "I did not want your death, Ard, but you brought it upon yourself!"
-msgstr ""
+msgstr " Nem én akartam a halálodat, Ard, magad hoztad a fejedre a bajt!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:523
 msgid "Well, Erda, we have much to discuss... may we enter the city?"
 msgstr ""
+"Rendben, Erda, sok mindenről kell beszélgetnünk... bemehetek a városodba?"
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:527
 msgid "Yes, yes... you, but not your army."
-msgstr ""
+msgstr "Igen, igen... de a sereged nélkül."
 
 #. [message]: id=Vaniyera
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:550
@@ -1260,6 +1424,9 @@ msgid ""
 "when we had the chance? Well, let these termites fight amongst themselves... "
 "I leave."
 msgstr ""
+"Ettől tartottam - ez az Alfhelm túlzottan megerősödött. Miért nem öltük meg "
+"akkor, mikor esélyünk volt rá? Hadd harcoljanak ezek a férgek egymás "
+"ellen... én távozom."
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:560
@@ -1267,12 +1434,14 @@ msgid ""
 "So, brother! We have chased away this elf in spite of your foolery. What say "
 "you? Are you prepared to die for your teachery?"
 msgstr ""
+"Tehát testvérem! Elűztük ezeket a tündéket az ostobaságod ellenére is. Most "
+"mit mondasz? Kész vagy meghalni az árulásod miatt?"
 
 #. [message]: id=Ard
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:564
 msgid ""
 "Ha! You're the traitor to our house, Erda. I'll not stand for you to live!"
-msgstr ""
+msgstr "Micsoda? te vagy a családunk árulója, Erda! S nem maradhatsz életben!"
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:568
@@ -1280,16 +1449,18 @@ msgid ""
 "What? What are you talking about? You betrayed me, and our city! And now you "
 "will perish for it."
 msgstr ""
+"Mi van? Miről beszélsz? Te árultál el engem és a városunkat! S ezért "
+"bűnhődni fogsz!"
 
 #. [message]: id=Ard
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:572
 msgid "This is a fight to the death, Erda! You and the Alfling will perish!"
-msgstr ""
+msgstr "Ez a harc halálig tart, Erda! Te és az Alfling is elpusztultok!"
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:577
 msgid "Defeat Ard Bardssen"
-msgstr ""
+msgstr "Legyőzöd Ard Bardssent"
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:601
@@ -1297,6 +1468,8 @@ msgid ""
 "Well then! Now that the elf is gone, we must decide the fate of Alfhelm... "
 "What do you say, brother?"
 msgstr ""
+"Akkor ezt elintéztük. Most, hogy a tünde elfutott, Alfhelmmel is "
+"foglalkozhatunk... Mit mondasz, testvérem?"
 
 #. [message]: id=Ard
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:605
@@ -1305,21 +1478,24 @@ msgid ""
 "attacking us more in earnest, we need the strength in arms. But I will not "
 "bow to him. Invite him into the city, but not his army."
 msgstr ""
+"Azt hiszem, bizonyította a hasznosságát... s ha a tündék komolyabb támadást "
+"intéznek ellenünk, szükség lesz minden erőnkre. De nem hódolok be neki. "
+"Hívjuk meg a városba, de a serege nélkül."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:609
 msgid "Very well..."
-msgstr ""
+msgstr "Rendben..."
 
 #. [message]: id=Vaniyera
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:629
 msgid "Indeed, it is as I feared. This Alfhelm is great in power..."
-msgstr ""
+msgstr "Ez az, amitől féltem. Ez az Alfhelm nagyon erős..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:633
 msgid "The thunderblade has fled. Alas, we did not manage to slay him..."
-msgstr ""
+msgstr "A mennydörgőpengés elszelelt. Sajnos nem tudtunk végezni vele..."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:637
@@ -1328,6 +1504,10 @@ msgid ""
 "done but by treachery, not since the dwarves made their swords and their "
 "king Vanimaro's spirit entered into them. Or so the Issaelfr taught me."
 msgstr ""
+"Végezni egy mennydörgőpengéssel? Ez valóban egy óriási hőstett lenne. Ilyen "
+"tettet még senkinek nem sikerült véghezvinni, csak árulással, hiszen törpök "
+"kovácsolják a kardjukat és a királyuk, Vanimaro szelleme költözik beléjük. "
+"Vagy valami ilyesmit tanított nekem egy fagytünde. "
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:641
@@ -1335,18 +1515,20 @@ msgid ""
 "I suppose there may be time to deal with the Thunderblades some later day... "
 "for now, we have other matters to discuss."
 msgstr ""
+"Azt hiszem a mennydörgőpengés kérdését el kell halasszuk későbbre... most "
+"egyéb dolgokról kell tárgyaljunk."
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/1_4_For_Honor.cfg:645
 msgid "Indeed. We go to council."
-msgstr ""
+msgstr "Valóban, irány a tanácskozás."
 
 #. [part]
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:37
 msgid ""
 "We were welcomed into Berdssenhold, the brothers' fortress, for a council of "
 "war."
-msgstr ""
+msgstr "Szívesen láttak minket a testvérek erődjében a haditanács idejére."
 
 #. [part]
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:41
@@ -1356,6 +1538,12 @@ msgid ""
 "that point, our alliance would have total control over all Marauderdom. From "
 "there, we would build up an army vast enough to take down Lavinium."
 msgstr ""
+"Ranhilde segítségével sikerült meggyőznöm a Bardlingeket, hogy segítsék a "
+"vállalkozásunkat. Biztosítottak számunkra forrást egy erős hadsereg "
+"toborzásához, hogy legyőzhessük a Wylflingeket. Innentől kezdve a mi "
+"szövetségünk uralma alatt  állt egész Martalócország. S ettől a pillanattól "
+"kezdve képessé váltunk egy ütőképes hadsereg felállítására, amellyel "
+"megtámadhattuk Laviniumot."
 
 #. [part]
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:46
@@ -1363,6 +1551,8 @@ msgid ""
 "But as the year was drawing to a close, we decided to spend the winter in "
 "Berdssenhold, preparing for the coming battle."
 msgstr ""
+"Egyre közelebb kerültünk a célhoz, a telet Berdssenholdban töltöttük, s "
+"készültünk az elkövetkező ütközetre."
 
 #. [part]
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:51
@@ -1371,17 +1561,21 @@ msgid ""
 "little import was discussed, and some points of great importance were "
 "decided."
 msgstr ""
+"Ezalatt sokat beszélgettünk Harn Bernsonnal és Ranhildével. Sok lényegtelen "
+"dolgot is megvitattunk, s néhány fontos dologról is határoztunk."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:66
 msgid ""
 "So, Alfhelm. It looks like you are on your way to victory over the Lavinians."
 msgstr ""
+"Tehát, Alfhelm! Úgy tűnik, jó úton haladsz, hogy győzelmet arass a "
+"laviniaiakon."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:70
 msgid "Yes, it does. Though we have not won yet."
-msgstr ""
+msgstr "Én is úgy látom. De még nem győztünk."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:74
@@ -1389,11 +1583,13 @@ msgid ""
 "True. Now, Alfhelm... you must remember. You are not only going to be a "
 "conquering warrior. You will also be lord of your people."
 msgstr ""
+"Igaz, de Alfhelm... Gondolnod kell másra is. Nemcsak egy hódító harcos vagy. "
+"Neked a néped urává is kell válni."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:78
 msgid "And I am ready for it. My father was lord of marauderdom as well."
-msgstr ""
+msgstr "Készen állok erre is. Apám is egy martalóc úr volt."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:82
@@ -1402,6 +1598,9 @@ msgid ""
 "well and adjucating wisely. Listen. When your father died, our people were "
 "plunged into chaos. Why was that, do you think?"
 msgstr ""
+"Meglehet... De a martalócok feletti uralkodás nemcsak azt jelenti, hogy "
+"kiváló harcos vagy, és bölcsen ítélkezel. Nézd. Amikor atyád meghalt, népünk "
+"sorsa káoszba torkollott. Mit gondolsz, miért?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:86
@@ -1409,6 +1608,8 @@ msgid ""
 "Because there was no one to take his place. The Sidhe killed the rest of his "
 "family... except for me. And for this we hate them."
 msgstr ""
+"Mert nem volt, aki elfoglalja a helyét. A Sidhe megölte a családja többi "
+"tagját... rajtam kívül. S ezért is gyűlöljük őt."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:90
@@ -1418,6 +1619,11 @@ msgid ""
 "different. But the general idea remains - if there is no one to succeed the "
 "king upon his death, the alliance will crumble."
 msgstr ""
+"Pontosan. Nos, azokban az időkben zavaros körülmények közt történtek a "
+"dolgok, s ha a Sidhének nem sikerült volna e gonosztett, akkor az elmúlt "
+"tizenhét évben egészen másképp alakultak volna a dolgok. De a lényeg nem "
+"változott - ha a királyt nincs, aki kövesse a halála után, a szövetség "
+"széthullik."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:94
@@ -1425,6 +1631,8 @@ msgid ""
 "What are you saying, you want me to appoint an heir? Before I am even made "
 "warlord over anything? Hah!"
 msgstr ""
+"Mire gondolsz? Nevezzem meg az örökösömet? Mielőtt még igazi hadúrrá válnék? "
+"Hahh!"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:98
@@ -1432,11 +1640,13 @@ msgid ""
 "You will need an heir eventually, and it would help to have him be of age "
 "when you die - so that he can rule on his own."
 msgstr ""
+"Végső soron szükség lesz egy örökösre, s mindenképp a megfelelő korban kell "
+"lennie, amikor te meghalsz - hogy átvehesse az uralmat."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:102
 msgid "Yes, you have a point..."
-msgstr ""
+msgstr "Igen, mondasz valamit..."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:106
@@ -1445,11 +1655,14 @@ msgid ""
 "There are already many noblemen willing to give their daughters to you, to "
 "solidify their standing with you..."
 msgstr ""
+"Nos, hogy ez rendben megtörténjen, nemcsak ülnünk kell és várnunk. "
+"Cselekednünk kell. Máris számos nemes adná a lányát hozzád, hogy "
+"megszilárdítsák a helyzetüket..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:110
 msgid "So what exactly do you suggest?"
-msgstr ""
+msgstr "Pontosan mire akarsz kilyukadni?"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:114
@@ -1458,11 +1671,15 @@ msgid ""
 "none... perhaps you should wed the seeress, Ranhilde. She is of noble blood, "
 "and she is of the Berdling clan as well. It would be a fruitful alliance."
 msgstr ""
+"Azt mondanám, hogy Erda Badssen lányát kéne elvenned, ha lenne neki, de "
+"nincs... talán választhatnád a látnoknőt, Ranhildét is. Nemesi vér csordogál "
+"az ereiben, s ő is a Bardlingek közül származik. Ez egy gyümölcsöző "
+"kapcsolat lenne."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:118
 msgid "Hm. I... I don't know. Maybe. I don't like the idea."
-msgstr ""
+msgstr "Hm. Én... én nem is tudom. Hmmm. Nem tetszik az ötlet."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:122
@@ -1470,12 +1687,15 @@ msgid ""
 "Actually, it seems to me to be the best option, politically. It has a "
 "certain poetry to it as well. It will go over well with the peasant-folk."
 msgstr ""
+"Ez idő szerint, politikailag is ez tűnik a legjobb megoldásnak. S nagyon "
+"romantikus megoldás is lenne. Jó visszhangja lenne a népek körében is."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:126
 msgid ""
 "But... I don't know. It seems wrong to wed her for those sorts of reasons."
 msgstr ""
+"De... nem is tudom. Nem tűnik jónak, ilyen megfontolások alapján házasodni."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:130
@@ -1483,16 +1703,20 @@ msgid ""
 "Yes, yes, I know what you mean. And yet... it would have so many benefits. "
 "You should at least see if she is willing."
 msgstr ""
+"Igen, igen, értem, mire gondolsz. De mégis... számos előnnyel is járna... De "
+"legalább őt is megkérdezhetnéd, mit szól hozzá."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:134
 msgid "If you insist, Harn. If it really is necessary... here, go get her."
 msgstr ""
+"Ha ragaszkodasz hozzá, Harn. Ha tényleg ezt kell tennem... legyen, megkérdem "
+"őt is."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:143
 msgid "Yes, son of Alfric, what do you want?"
-msgstr ""
+msgstr "Nos, Alfric fia, mit óhajtasz?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:147
@@ -1500,31 +1724,33 @@ msgid ""
 "Well... in essence, Harn here thinks I should marry you. For political "
 "reasons."
 msgstr ""
+"Hát... tulajdonképpen Harn úgy gondolja, hogy össze kellene házasodnunk. "
+"Politikai okokból."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:151
 msgid "And why would I do that?"
-msgstr ""
+msgstr "S miért lenne ez jó nekem?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:155
 msgid "I really don't know."
-msgstr ""
+msgstr "Ezt nem tudom."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:159
 msgid "I don't either."
-msgstr ""
+msgstr "Én sem."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:163
 msgid "Well, what do you say?"
-msgstr ""
+msgstr "Tehát, mit mondasz?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:167
 msgid "Harn, why do you think I should marry him?"
-msgstr ""
+msgstr "Harn, miért gondolod, hogy jó lenne ez a házasság?"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:171
@@ -1532,47 +1758,53 @@ msgid ""
 "Well, you see... for one, you are a Berdling. It gives him a stronger hold "
 "over the people here. And he needs to wed, sooner rather than later."
 msgstr ""
+"Nos, nézzük... először, mert Bardling vagy. Ez az itteni emberek szemében "
+"sokat jelentene. Alfhelmnek előbb vagy utóbb úgyis meg kell házasodnia."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:175
 msgid "I see."
-msgstr ""
+msgstr "Értem."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:179
 msgid "Well?"
-msgstr ""
+msgstr "Nos?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:183
 msgid ""
 "I have no desire to wed. But if Alfhelm wants to do so, I have no objections."
 msgstr ""
+"Nem érzek vágyat a házassághoz. De ha Alfhelm is úgy gondolja, én nem "
+"ellenzem."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:187
 msgid "Hm... well, Harn, I suppose this is probably as good a match as any."
 msgstr ""
+"Hm... akkor Harn, azt hiszem ez a választás is van olyan jó, mint bármelyik "
+"más. "
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:191
 msgid "It doesn't really matter anyways."
-msgstr ""
+msgstr "Nana, azért én ezt másképp mondanám."
 
 #. [scenario]: id=1_5_Wylflingdom
 #: Alfhelm/scenarios/1_5_Wylflingdom.cfg:7
 msgid "Wylflingdom"
-msgstr ""
+msgstr "Wylflingdom"
 
 #. [side]: type=Marauder Lord, id=Gyrdwulf
 #: Alfhelm/scenarios/1_5_Wylflingdom.cfg:41
 msgid "Wylflings"
-msgstr ""
+msgstr "Wylflingek"
 
 #. [side]: type=Marauder Lord, id=Gyrdwulf
 #: Alfhelm/scenarios/1_5_Wylflingdom.cfg:47
 msgid "Gyrdwulf Wylfsson"
-msgstr ""
+msgstr "Gyrdwulf Wylfsson"
 
 #. [part]
 #: Alfhelm/scenarios/1_5_Wylflingdom.cfg:53
@@ -1581,6 +1813,9 @@ msgid ""
 "the land of the Wylflings. I tried to get her to stay behind in "
 "Berdssenhold, but she insisted on coming."
 msgstr ""
+"Így aztán Ranhilde és én pár hónappal később összeházasodtunk, épp azelőtt, "
+"hogy a Wylflingek ellen indultunk. Újdonsült feleségemet Berdssenholdban "
+"akartam hagyni, de ő ragaszkodott hozzá, hogy jöjjön."
 
 #. [part]
 #: Alfhelm/scenarios/1_5_Wylflingdom.cfg:57
@@ -1589,6 +1824,9 @@ msgid ""
 "Berdlings and the Alflings being the other two. Once they were subject to "
 "us, we would control all of Marauderdom."
 msgstr ""
+"A Wylflingek voltak a harmadik család a nagy királyi házak között a "
+"Bardlingek és az Alflingek mellett. Ha alávetjük őket, egész Martalócország "
+"az uralmunk alá kerül."
 
 #. [part]
 #: Alfhelm/scenarios/1_5_Wylflingdom.cfg:62
@@ -1600,31 +1838,40 @@ msgid ""
 "claimed as their own the central city that lies in between the lands of the "
 "houses - the Seat of Three Kings."
 msgstr ""
+"Csakhogy ez az alávetés nem ígérkezett könnyűnek. Felszólítottuk őket a "
+"megadásra, de visszautasították, és néhány hónapjuk maradt is az ellenünk "
+"való felkészülésre. Habár fél évszázaddal korábban alaposan megcsappant az "
+"erejük a Silviánál Caius Regilius felett aratott pürrhoszi győzelmük miatt, "
+"még mindig számottevő erőt képviseltek. Ráadásul ők birtokolták "
+"Martalócország központi fekvésű városát, Seat of Three Kingset, amely az "
+"egyes családok földjei közt helyezkedett el. "
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/1_5_Wylflingdom.cfg:83
 msgid "Defeat Gyrdwulf Wylfsson"
-msgstr ""
+msgstr "Legyőzöd Gyrdwulf Wylfssont"
 
 #. [label]
 #: Alfhelm/scenarios/1_5_Wylflingdom.cfg:107
 msgid "Seat of Three Kings"
-msgstr ""
+msgstr "Seat of Three Kings"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/1_5_Wylflingdom.cfg:119
 msgid "We should not waste words here. The Wylflings know we come for battle."
 msgstr ""
+"Fölösleges diplomáciával próbálkoznunk. A Wylflingek tudják, hogy háborúzni "
+"jövünk."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_5_Wylflingdom.cfg:123
 msgid "True. Very well, let us attack them."
-msgstr ""
+msgstr "Igaz. Nagyon igaz. Támadás!"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_5_Wylflingdom.cfg:127
 msgid "Forward!"
-msgstr ""
+msgstr "Előre!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/1_5_Wylflingdom.cfg:138
@@ -1632,31 +1879,34 @@ msgid ""
 "We are going to kill you, Gyrdwulf, unless you surrender. Come, join us "
 "against the Lavinians. Ours could be a grand alliance!"
 msgstr ""
+"Azért jöttünk, hogy megöljünk, Gyrdwulf, hacsak nem adod meg magad. Jöjj, "
+"csatlakozz hozzánk a laviniaiak ellen. A leghatalmasabb szövetséget "
+"alkotnánk."
 
 #. [message]: id=Gyrdwulf
 #: Alfhelm/scenarios/1_5_Wylflingdom.cfg:142
 msgid "Would you have me a coward?! Die!!!"
-msgstr ""
+msgstr "Gyáva nyúlnak nézel? Halál rád!"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/1_5_Wylflingdom.cfg:146
 msgid "Very well. Let him prove his worth, Alfhelm..."
-msgstr ""
+msgstr "Rendben van. Lássuk, mire föl van a gőgje, Alfhelm..."
 
 #. [message]: id=Gyrdwulf
 #: Alfhelm/scenarios/1_5_Wylflingdom.cfg:157
 msgid "Aha ha ha ha... *urp*"
-msgstr ""
+msgstr "Aha ha ha ha... *argh*"
 
 #. [scenario]: id=1_Epilogue
 #: Alfhelm/scenarios/1_Epilogue.cfg:7
 msgid "Part I Epilogue"
-msgstr ""
+msgstr "I rész Epilógus"
 
 #. [part]
 #: Alfhelm/scenarios/1_Epilogue.cfg:37
 msgid "Thus were the three realms of the Marauders once again reunited."
-msgstr ""
+msgstr "Ilyenformán a martalócok három királysága újra egyesült."
 
 #. [part]
 #: Alfhelm/scenarios/1_Epilogue.cfg:42
@@ -1664,33 +1914,35 @@ msgid ""
 "My queen Ranhilde and I ruled from the Seat of Three Kings, and awaited the "
 "day when we could march south to Lavinium."
 msgstr ""
+"Ranhilde és én kormányoztuk a birodalmat Seat of Three Kings városából és "
+"vártuk a napot, mikor seregeinkkel megindulhatunk délre, Lavinium ellen."
 
 #. [scenario]: id=2_1_Through_the_Mountains
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:7
 msgid "Through the Mountains"
-msgstr ""
+msgstr "Keresztül a hegyeken"
 
 #. [side]: type=Arendian Hero, id=Raskirk
 #. [side]: type=Arendian Hero, id=Dunharr
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:46
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:45
 msgid "Arendians"
-msgstr ""
+msgstr "Arendiaiak"
 
 #. [side]: type=Arendian Hero, id=Raskirk
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:50
 msgid "Raskirk"
-msgstr ""
+msgstr "Raskirk"
 
 #. [side]: type=Magni Provocator Leonis, id=Praravus
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:67
 msgid "Praravus"
-msgstr ""
+msgstr "Praravus"
 
 #. [part]
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:73
 msgid "PART II (943-950 SI): WE MARCH AGAINST THE RED AND GOLD..."
-msgstr ""
+msgstr "II. rész (w. i. sz. 943-950) Hadjárat a vörös-arany ellen..."
 
 #. [part]
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:77
@@ -1698,6 +1950,9 @@ msgid ""
 "I have told how I - we - gained lordship over all Marauderdom. But that was "
 "only the beginning of our plans. We never forgot that, though years passed."
 msgstr ""
+"Elmondtam, hogy szereztem - szereztük - meg Martalócország fölött az "
+"uralmat. De ez csak az első lépés volt az igazi tervünkben. S ezt soha nem "
+"feledtük, bár az évek teltek."
 
 #. [part]
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:81
@@ -1705,6 +1960,9 @@ msgid ""
 "Indeed, time seemed to slip by all too quickly. It seemed there was always "
 "more to be done before everything would be ready for the southward march."
 msgstr ""
+"Valójában mindannyiunk számára úgy tűnt, hogy túl gyorsan pereg az idő. Úgy "
+"látszott, sokasodnak a tennivalóink, mielőtt készen álltunk a déli "
+"menetelésre."
 
 #. [part]
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:85
@@ -1712,6 +1970,8 @@ msgid ""
 "Also, I admit, I was not certain I wanted to march against the Lavinians. "
 "Was it not, after all, the Sidhe who had most hurt us?"
 msgstr ""
+"Be kell vallanom, nem voltam benne biztos, hogy a laviniaiak ellen akarok "
+"vonulni. Különben is ez a Sidhe sokkal inkább gondot okozott nekünk."
 
 #. [part]
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:89
@@ -1719,6 +1979,8 @@ msgid ""
 "It seemed to me we should attack them, not the Lavinians. But Ranhilde said "
 "differently... the debate continued on and off for three years."
 msgstr ""
+"Úgy gondoltam, hogy a laviniaiak helyett a sidhékkel kellene leszámolnunk. "
+"De Ranhilde másképp vélekedett... a huzavona három éven keresztül tartott."
 
 #. [part]
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:93
@@ -1727,56 +1989,59 @@ msgid ""
 "Three Kings as steward - I could trust him, couldn't I? - and lead the bulk "
 "of the Marauder army to war."
 msgstr ""
+"Végezetül ráálltam, hogy délre menjünk. Erda Bardssent hátrahagyhatom Seat "
+"of Three Kingsben, hogy helyettem kormányozzon - hiszen megbízhatok benne, "
+"miért is ne? - és magam állhatok a martalóc had élére."
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:111
 msgid "Bring Alfhelm to the keep of the Arendian citadel"
-msgstr ""
+msgstr "Alfhelm behatol az arendiai citadellába"
 
 #. [label]
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:135
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:86
 msgid "Pass of Arendia"
-msgstr ""
+msgstr "Arendia-hágó"
 
 #. [label]
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:139
 msgid "Darthet"
-msgstr ""
+msgstr "Darthet"
 
 #. [label]
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:143
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:82
 msgid "To Marauderdom"
-msgstr ""
+msgstr "Martalócország felé"
 
 #. [label]
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:147
 msgid "To East Arendia"
-msgstr ""
+msgstr "Kelet-Arendia felé"
 
 #. [label]
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:151
 msgid "To South Arendia"
-msgstr ""
+msgstr "Dél-Arendia felé"
 
 #. [label]
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:155
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:74
 msgid "Dverkenn Tarn"
-msgstr ""
+msgstr "Törp alagutak"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:167
 msgid "We have come to the Pass of Arendia!"
-msgstr ""
+msgstr "Megérkeztünk az Arendia-hágóhoz!"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:171
 msgid ""
 "It was only a few leagues from here that your father fell in battle against "
 "the Lavinians."
-msgstr ""
+msgstr "Innen néhány mérföldnyire esett el atyád a laviniaiak elleni csatában"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:175
@@ -1784,6 +2049,8 @@ msgid ""
 "But the Marauders were victorious in that battle nonetheless. We crushed the "
 "Lavinians and their Arendian allies."
 msgstr ""
+"Mindazonáltal a martalócok vívták ki a győzelmet. Megsemmisítettük a "
+"laviniaiakat és arendiai szövetségeseiket."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:179
@@ -1791,6 +2058,8 @@ msgid ""
 "True, but they were not all destroyed. The Arendians will still resist us if "
 "we press southward."
 msgstr ""
+"Igen, de nem számoltuk fel őket. Az aarendiaiak még ellenállnak, ha dél felé "
+"nyomulunk."
 
 #. [message]: id=Raskirk
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:183
@@ -1798,11 +2067,13 @@ msgid ""
 "You speak the truth too well, man! Come any closer, and we will fight you to "
 "the death!"
 msgstr ""
+"Nagyon jól látod a helyzetet, ember. Ha közelebb jöttök, a fegyvereinkkel "
+"találjátok magatokat szemben!"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:187
 msgid "Onward, Alfhelm, to victory!"
-msgstr ""
+msgstr "Előre, Alfhelm, a győzelemért!"
 
 #. [message]: speaker=narrator
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:191
@@ -1811,23 +2082,28 @@ msgid ""
 "whose raids Alfhelm had put an end to when he became king, were unhappy with "
 "him."
 msgstr ""
+"Csakhogy Alfhelmnek más ellenségei is voltak a területen... az orkok "
+"látszólag beszüntették támadásaikat Alfhelm ellen, amikor király lett, de "
+"valójában továbbra is fenekedtek rá."
 
 #. [message]: id=Praravus
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:196
 msgid "It's time, boys! Get the bastard who stopped our fun in the swamps!"
 msgstr ""
+"Itt az idő, fiúk! Kapjuk el ezt a mocskot, aki véget vetett a lápi "
+"szórakozásainknak."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:200
 msgid ""
 "Pay no attention to him. Our goal is to get through this pass and continue "
 "on south."
-msgstr ""
+msgstr "Ne törődj velük. A mi célunk átjutni a hágón és dél felé menetelni."
 
 #. [message]: speaker=unit
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:216
 msgid "Look, it's a well! But why would a well be put right next to a lake?..."
-msgstr ""
+msgstr "Nézzétek, egy kút! De mit keres itt egy kút, ilyen közel a tóparthoz?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:220
@@ -1837,11 +2113,15 @@ msgid ""
 "to talk to them, they have to either go down to the caves or drop a message "
 "down this well."
 msgstr ""
+"Ó, tudom, mi ez... ezen keresztül lehet a barlanglakókkal kapcsolatot "
+"teremteni. Nem szívesen jönnek a felszínre... de valahányszor egy felszínen "
+"lakó beszélni akar velük, vagy leereszkedik a barlangjukba, vagy üzenetet "
+"küld nekik ezen a kúton keresztül."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:224
 msgid "I see. But we have no business with the dwarves."
-msgstr ""
+msgstr "Értem, de nincs semmi dolgunk a törpökkel."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:228
@@ -1849,31 +2129,33 @@ msgid ""
 "Not as yet. But it is better to have them well-disposed towards us... here, "
 "drop some coins down in token of our friendship."
 msgstr ""
+"Nincs, egyelőre. De nem ártana biztosítani a szimpátiájukat irányunkban... "
+"itt van, dobj le némi pénzt a barátságunk bizonyítékaként."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:242
 msgid "Very well."
-msgstr ""
+msgstr "Rendben."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:255
 msgid "Alas, we have none to give."
-msgstr ""
+msgstr "Sajnos egy fillérem sincs."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:272
 msgid "Let's get away from these orcs! We go south."
-msgstr ""
+msgstr "Hagyjuk ezeket az orkokat! Irány dél!"
 
 #. [scenario]: id=2_2_South_Across_the_Plains
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:7
 msgid "South Across the Plains"
-msgstr ""
+msgstr "Keresztül a déli síkságon"
 
 #. [side]: type=Arendian Hero, id=Dunharr
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:49
 msgid "Dunharr"
-msgstr ""
+msgstr "Dunharr"
 
 #. [part]
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:55
@@ -1881,6 +2163,8 @@ msgid ""
 "And so we continued on south through Arendia, eventually coming to Rath, one "
 "of the few true cities in that realm."
 msgstr ""
+"Így aztán folytattuk utunkat délre, Arendián keresztül, végül elértük "
+"Rathot, egyikét a kevés tényleges városnak ezen a vidéken."
 
 #. [part]
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:60
@@ -1888,6 +2172,8 @@ msgid ""
 "As we approached the walls, however, a rider came upon us from the north. He "
 "brought news of Sidhe attacks on the eastern forests of Marauderdom."
 msgstr ""
+"Ahogy megjelentünk a falak alatt, egy lovasfutár érkezett északról. Sidhe "
+"támadásokról számolt be Martalócország keleti erdőségeiben."
 
 #. [part]
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:64
@@ -1895,53 +2181,57 @@ msgid ""
 "We had to decide - to go back and defend the homeland, or to press on "
 "towards our eventual goal."
 msgstr ""
+"Döntenünk kellett - visszafordulunk és megvédjük a hazánkat, vagy "
+"továbbnyomulunk eredeti célpontunk felé."
 
 #. [objectives]
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:82
 msgid "Recall units and put them on the signpost to send aid with Rygar"
 msgstr ""
+"Hívd vissza az egységeidet és küldd őket az útjelzőhöz, hogy segítségére "
+"legyenek Rygarnak"
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:84
 msgid "Kill the enemy leader to take control of Rath"
-msgstr ""
+msgstr "Megölöd az ellenséges vezért, és elfoglalod Rathot"
 
 #. [label]
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:108
 msgid "Rath"
-msgstr ""
+msgstr "Rath"
 
 #. [label]
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:122
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:75
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:112
 msgid "To Ceresia"
-msgstr ""
+msgstr "Ceresia felé"
 
 #. [label]
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:116
 msgid "To the Pass of Arendia"
-msgstr ""
+msgstr "Az Arendia-hágó felé"
 
 #. [label]
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:120
 msgid "To Eastern Arendia"
-msgstr ""
+msgstr "Kelet-Arendia felé"
 
 #. [label]
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:124
 msgid "To Western Arendia"
-msgstr ""
+msgstr "Nyugat-Arendia felé"
 
 #. [label]
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:128
 msgid "To Southern Arendia"
-msgstr ""
+msgstr "Dél-Arendia felé"
 
 #. [unit]: type=Marauder Mounted Axeman, id=Rygar
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:177
 msgid "Rygar Garinsson"
-msgstr ""
+msgstr "Rygar Garinsson"
 
 #. [message]: id=Rygar
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:181
@@ -1949,6 +2239,8 @@ msgid ""
 "My lord, the Sidhe Elves have invaded our eastern border. You must return "
 "north to defend our people!"
 msgstr ""
+"Uram, a sidhe tündék behatoltak a keleti területeinkre. Vissza kell térned "
+"északra, hogy megvédd a népünket!"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:185
@@ -1956,6 +2248,8 @@ msgid ""
 "The Sidhe always make raids upon the farmlands. This is no different. We "
 "must press on."
 msgstr ""
+"A sidhék mindig be-becsapnak a földjeinkre. Mi ebben a szokatlan. Tovább "
+"kell nyomulnunk délre."
 
 #. [message]: id=Rygar
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:189
@@ -1964,6 +2258,9 @@ msgid ""
 "leads the Sidhe against us. He shows no mercy, does not retreat. He means to "
 "destroy us."
 msgstr ""
+"Vissza kell térnetek, ez nem a szokásos portyázás! Vaniyera, a "
+"mennydörgőpengés vezeti a sidhéket ellenünk. Nem hátrál, és nem ismer "
+"irgalmat. A teljes megsemmisítésünkre törekszik."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:193
@@ -1971,6 +2268,8 @@ msgid ""
 "Vaniyera? I have met him. He fled like a coward near the halls of the "
 "Berdssens."
 msgstr ""
+"Vaniyera? Már összefutottunk vele. Gyáván megfutamodott Berdssenhold falai "
+"alatt."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:197
@@ -1979,6 +2278,9 @@ msgid ""
 "our people are united and powerful. Even if they did, there would be no need "
 "for us to return. The Berdssens can handle this easily enough."
 msgstr ""
+"Valóban, lovas, te tévedsz. A sidhék nem mernek megtámadni minket most, "
+"amikor népünk erős és egységes. Ha mégis megpróbálnák, akkor sincs szükség "
+"ránk. A Bardfiak is könnyedén el tudják hárítani a támadásukat."
 
 #. [message]: id=Rygar
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:201
@@ -1987,11 +2289,13 @@ msgid ""
 "return yourself to fight him, will you send some of the warriors back with "
 "me to do so?"
 msgstr ""
+"Ők nem így gondolják; ezért küldtek engem. Uram, ha magad nem is térsz "
+"vissza, küldhetnél néhány harcost velem erősítésként."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:205
 msgid "I don't think it will be necessary."
-msgstr ""
+msgstr "Nem látom ennek szükségét."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:209
@@ -1999,6 +2303,8 @@ msgid ""
 "Still, we might err on the side of caution and send back some of the "
 "warriors. We did recruit nearly every able-bodied man to come south with us."
 msgstr ""
+"Néhány harcost óvatosságból visszaküldeni még nem okozhat problémát. Majd "
+"minden fegyverforgató embert besoroztunk erre a hadjáratra."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:213
@@ -2006,11 +2312,13 @@ msgid ""
 "Well, I suppose we should be careful and send some of the men back home... "
 "but we might not be able to spare the men."
 msgstr ""
+"Nos, azt hiszem, fontos az óvatosság, néhány embert valóban "
+"visszaküldhetünk... De a sereget nem oszthatjuk meg."
 
 #. [message]: id=Rygar
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:217
 msgid "When you decide, send them back up the path towards me!"
-msgstr ""
+msgstr "Ha döntöttél a visszaküldendő csapatról, küldd őket utánam!"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:229
@@ -2019,6 +2327,9 @@ msgid ""
 "Rath, capital of Arendia. Its walls are tall, but even they cannot compare "
 "to those of Lavinium."
 msgstr ""
+"Rendben, most, hogy eldöntöttük a kérdést, koncentráljunk az előttünk fekvő "
+"város elfoglalására. Ez Rath, Arendia fővárosa. Magasak a falai, de össze "
+"sem vethetők Laviniuméval. "
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:233
@@ -2026,46 +2337,48 @@ msgid ""
 "It doesn't look so great. Should I give them a chance to surrender before we "
 "take the city?"
 msgstr ""
+"Ez nem tűnik nagy feladatnak. Talán adhatnék egy esélyt nekik a megadásra?"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:237
 msgid "Always. But they will not take it, and thus they will perish."
 msgstr ""
+"Adni adhatsz. De nem fognak élni a lehetőséggel, tehát pusztulniuk kell."
 
 #. [message]: id=Dunharr
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:241
 msgid "Prepare to meet your fate, invaders from the north!"
-msgstr ""
+msgstr "Készüljetek a végzetetekre, északi behatolók!"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:245
 msgid "Let us fight. Make it swift."
-msgstr ""
+msgstr "Harcra fel! Ne pazaroljuk az időt!"
 
 #. [message]: speaker=unit
 #: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:271
 msgid "I go north to aid Rygar!"
-msgstr ""
+msgstr "Megyek északra Rygarral!"
 
 #. [scenario]: id=2_3_Ceresia
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:7
 msgid "Ceresia"
-msgstr ""
+msgstr "Ceresia"
 
 #. [side]: type=Lavinian Centurion, id=Fulmius D
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:42
 msgid "Ceresians"
-msgstr ""
+msgstr "Ceresiaiak"
 
 #. [side]: type=Lavinian Centurion, id=Fulmius D
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:46
 msgid "Fulmius Dartunus"
-msgstr ""
+msgstr "Fulmius Dartunus"
 
 #. [side]
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:57
 msgid "Wolflings"
-msgstr ""
+msgstr "Wolflingek"
 
 #. [part]
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:71
@@ -2074,6 +2387,9 @@ msgid ""
 "encountering few opponents - for the vast wheat-fields of Ceresia are for "
 "the most part uninhabited."
 msgstr ""
+"Folytattuk utunkat a célunk felé, néha megálltunk és felperzseltünk néhány "
+"falucskát, de kevés ellenséggel találkoztunk - Ceresia hatalmas búzatermő "
+"vidéke kihaltnak látszott."
 
 #. [part]
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:75
@@ -2081,76 +2397,80 @@ msgid ""
 "But eventually we came to the great city of the province of Western Ceresia. "
 "We found that another band of Marauders was in the process of sacking it."
 msgstr ""
+"Végezetül elértük Nyugat-Ceresia legnagyobb városát. A falak előtt egy másik "
+"martalóc csapatot találtunk, amely épp a város kifosztására készült."
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:93 Alfhelm/scenarios/2_3_Ceresia.cfg:333
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:366 Alfhelm/scenarios/2_3_Ceresia.cfg:416
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:453 Alfhelm/scenarios/2_3_Ceresia.cfg:594
 msgid "Take the city"
-msgstr ""
+msgstr "Elfoglalod a várost"
 
 #. [label]
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:116
 msgid "Demetrium"
-msgstr ""
+msgstr "Demetrium"
 
 #. [label]
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:120
 msgid "To Persephum"
-msgstr ""
+msgstr "Persephum felé"
 
 #. [label]
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:124
 msgid "To Lavinium"
-msgstr ""
+msgstr "Lavinium felé"
 
 #. [label]
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:78
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:128
 msgid "To Arendia"
-msgstr ""
+msgstr "Arendia felé"
 
 #. [label]
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:130
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:83
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:132
 msgid "To Airiyadom"
-msgstr ""
+msgstr "Airiyadom felé"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:144
 msgid "Surrender, Lavinian dog, or we will capture your city and slay you!"
 msgstr ""
+"Adjátok meg magatokat laviniai kutyák, vagy leromboljuk a városotokat és "
+"kardélre hányunk titeket is!"
 
 #. [message]: id=Fulmius D
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:148
 msgid "Surely you jest. I will die either way, and I will fight!"
-msgstr ""
+msgstr "Na ne viccelj! Egyszer biztos meghalok, de téged túléllek!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:152
 msgid "Let us fight, then."
-msgstr ""
+msgstr "Akkor harcra fel!"
 
 #. [unit]: type=Marauder Scorcher, id=Roln
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:170
 msgid "Roln Woldwylsson"
-msgstr ""
+msgstr "Roln Woldwylsson"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:255
 msgid "What's this, a Marauder this far south?"
-msgstr ""
+msgstr "Hát ez meg mi? Martalócok ilyen messze délen?"
 
 #. [message]: speaker=unit
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:259
 msgid "I could ask the same!"
-msgstr ""
+msgstr "Én is épp ezt akartam kérdezni."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:263
 msgid "Who are these men?"
-msgstr ""
+msgstr "Kik ezek az emberek?"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:267
@@ -2158,6 +2478,8 @@ msgid ""
 "When your father fell in battle, not all his men went back home... some kept "
 "on south. We thought they died, though."
 msgstr ""
+"Amikor atyád elesett a csatában, nem mindenki tért haza... néhányan délen "
+"maradtak. Azt hittük, meghaltak."
 
 #. [message]: speaker=unit
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:272
@@ -2166,11 +2488,13 @@ msgid ""
 "enough to try it. It was easy enough to take the big city to the east of "
 "here."
 msgstr ""
+"Hah! Élünk, és majdnem Laviniumig nyomultunk. De ostobaság lett volna "
+"megtámadni. Így aztán inkább a keletre fekvő nagyobb várost foglaltuk el."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:276
 msgid "What are you saying?..."
-msgstr ""
+msgstr "Mit beszélsz?..."
 
 #. [message]: id=Roln
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:286
@@ -2178,6 +2502,8 @@ msgid ""
 "We set up a little... kingdom over there. We raid these Ceresians now and "
 "then. Now, specifically. Now get out of our way!"
 msgstr ""
+"Alapítottunk egy kis... királyságot. Azóta a Ceresiaiakat adóztatjuk és "
+"fosztogatjuk. Főleg az utóbbit. De félre az utunkból!"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:290 Alfhelm/scenarios/2_3_Ceresia.cfg:308
@@ -2185,6 +2511,9 @@ msgid ""
 "What? That wasn't completely foolish of them - we'll get more wealth, maybe, "
 "if we make ourselves lords of these lands instead of just burning everything."
 msgstr ""
+"Micsoda? Nem is olyan bolondság, amit mondasz - sokkal gazdagabbak lennénk, "
+"ha elfoglalva a várost e föld uraivá válnánk, mintha felperzselnénk a "
+"vidéket."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:294
@@ -2193,13 +2522,16 @@ msgid ""
 "to take this city for our own, like you did in the east! Join us, or at "
 "least don't interfere!"
 msgstr ""
+"Igaz, de ez a Roln őrült és felgyújtja ezt a várost! Roln, mi magunknak "
+"akarjuk elfoglalni ezt a várost, ahogy ti tettétek azzal a keletivel. "
+"Csatlakozz hozzánk, de legalábbis ne akadályozz minket! "
 
 #. [message]: id=Roln
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:298
 msgid ""
 "I won't tolerate rivals, boy! This city burns, and you with it if I can "
 "manage it!"
-msgstr ""
+msgstr "Nem tűröm a konkurenciát fiúk! Ez a város égni fog, s vele ti is!"
 
 #. [message]: speaker=unit
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:304
@@ -2207,6 +2539,8 @@ msgid ""
 "We set up a little... kingdom over there. Our lord is Roln Woldwylsson. We "
 "raid these Ceresians now and then. Now, specifically. Now get out of our way!"
 msgstr ""
+"Alapítottunk egy kis... királyságot amott. Urunk Roln Woldwylsson. Azóta "
+"fosztogatjuk ezeket a ceresiaiakat. De félre az utunkból!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:312
@@ -2215,17 +2549,20 @@ msgid ""
 "we're going to take this city for our own, like you did in the east! Join "
 "us, or at least don't interfere!"
 msgstr ""
+"Igen, de ez a Roln őrült, és felgyújtja a várost. Mondd meg az uradnak, hogy "
+"magunknak akarjuk elfoglalni ezt a várost, ahogy ti tettétek azzal a "
+"keletivel! Csatlakozzatok, vagy legalábbis ne akadályozzatok minket!"
 
 #. [message]: speaker=unit
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:316
 msgid "Ha! This city burns, and you with it if we can manage it!"
-msgstr ""
+msgstr "Hah! Ez a város ég, és ti is égni fogtok!"
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:329 Alfhelm/scenarios/2_3_Ceresia.cfg:362
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:412 Alfhelm/scenarios/2_3_Ceresia.cfg:675
 msgid "Subdue the rebel Marauders and their lord, Roln Woldwylsson"
-msgstr ""
+msgstr "Legyőzöd a lázadó martalócokat és vezetőjüket, Roln Woldwylssont"
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:337 Alfhelm/scenarios/2_3_Ceresia.cfg:420
@@ -2233,7 +2570,7 @@ msgstr ""
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:627 Alfhelm/scenarios/2_3_Ceresia.cfg:679
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:708
 msgid "Put out the wildfires"
-msgstr ""
+msgstr "Megfékezed a tűzvészt"
 
 #. [objective]: condition=lose
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:353 Alfhelm/scenarios/2_3_Ceresia.cfg:436
@@ -2241,48 +2578,48 @@ msgstr ""
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:643 Alfhelm/scenarios/2_3_Ceresia.cfg:695
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:724
 msgid "Allow the fire to reach the citadel"
-msgstr ""
+msgstr "A tűzvész eléri a citadellát"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:403
 msgid "They're lighting fires! Don't let the city burn!"
-msgstr ""
+msgstr "Felgyújtják a várost! Ne hagyjuk, hogy leégjen!"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:407
 msgid "We have to put out these wildfires before they burn everything!"
-msgstr ""
+msgstr "Meg kell fékeznünk a tűzvészt, mielőtt porrá ég a város!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:444
 msgid "The fields are burning! What is this?!"
-msgstr ""
+msgstr "Tűz van! Mi ez?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:448
 msgid ""
 "I do not know what caused this - but we cannot let it burn the city down."
-msgstr ""
+msgstr "Nem tudom, mi okozta - de nem hagyhatjuk porrá égni a várost!"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:512
 msgid "They burned the citadel, now the city is useless to us!"
-msgstr ""
+msgstr "Felgyújtották a citadellát is, elpusztult a város!"
 
 #. [message]: id=Roln
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:585
 msgid "Damn..."
-msgstr ""
+msgstr "A francba..."
 
 #. [message]: id=Roln
 #: Alfhelm/scenarios/2_3_Ceresia.cfg:666
 msgid "The city falls!..."
-msgstr ""
+msgstr "A város elesett!..."
 
 #. [scenario]: id=2_3t_The_Siege_Begins
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:7
 msgid "The Siege Begins"
-msgstr ""
+msgstr "Ostromállapot"
 
 #. [side]: type=Lavinian Imperator, id=Quirinius M
 #. [side]: type=Lavinian Centurion, id=Sextus R
@@ -2292,13 +2629,13 @@ msgstr ""
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:55
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:80
 msgid "Lavinians"
-msgstr ""
+msgstr "Laviniaiak"
 
 #. [side]: type=Lavinian Imperator, id=Quirinius M
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:53
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:42
 msgid "Quirinius Maximus"
-msgstr ""
+msgstr "Quirinius Maximus"
 
 #. [part]
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:48
@@ -2307,6 +2644,9 @@ msgid ""
 "year to build up our strength. The dream was now not only to sack Lavinium, "
 "but to truly control the southern lands."
 msgstr ""
+"Meghódítottuk Nyugat-Ceresiát. Egy évig ott táboroztunk, hogy megerősítsük a "
+"seregünket. Már nemcsak elfoglalni akartuk Laviniumot, de uralni a déli "
+"területeket is."
 
 #. [part]
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:53
@@ -2314,6 +2654,8 @@ msgid ""
 "Eventually we felt our strength was enough to take Lavinium, and we went "
 "back on the road."
 msgstr ""
+"Végül elérkezettnek láttuk az időt Lavinium bevételére, s felvonultunk a "
+"végső csatára."
 
 #. [part]
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:58
@@ -2322,66 +2664,69 @@ msgid ""
 "When we got to within a few miles of the city they sent out an embassy to "
 "greet us."
 msgstr ""
+"Ezidőtájt Lavinium lakói már értesültek a tervünkről. Amikor néhány "
+"mérföldre megközelítettük a várost, követet menesztettek elénk, hogy "
+"tárgyaljon velünk."
 
 #. [label]
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:126
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:79
 msgid "To Nemidia"
-msgstr ""
+msgstr "Nemidia felé"
 
 #. [label]
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:134
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:87
 msgid "To (Port City)"
-msgstr ""
+msgstr "(Kikötőváros) felé"
 
 #. [label]
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:138
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:91
 msgid "To (SE???)"
-msgstr ""
+msgstr "(DK???) felé"
 
 #. [label]
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:142
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:95
 msgid "To (NW???)"
-msgstr ""
+msgstr "(ÉNY???) felé"
 
 #. [label]
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:146
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:99
 msgid "Inner City"
-msgstr ""
+msgstr "Belváros"
 
 #. [label]
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:150
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:103
 msgid "West Lavinium"
-msgstr ""
+msgstr "Nyugat-Lavinium"
 
 #. [label]
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:154
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:107
 msgid "East Lavinium"
-msgstr ""
+msgstr "Kelet-Lavinium"
 
 #. [label]
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:158
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:111
 msgid "South Lavinium"
-msgstr ""
+msgstr "Dél-Lavinium"
 
 #. [label]
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:162
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:115
 msgid "North Bridge"
-msgstr ""
+msgstr "Északi-híd"
 
 #. [label]
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:166
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:119
 msgid "South Bridge"
-msgstr ""
+msgstr "Déli-híd"
 
 #. [side]: type=Lavinian Centurion, id=Sextus R
 #. [unit]: type=Lavinian Centurion, id=Sextus R
@@ -2389,7 +2734,7 @@ msgstr ""
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:140
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:218
 msgid "Sextus Raetius"
-msgstr ""
+msgstr "Sextus Raetius"
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:144
@@ -2398,6 +2743,9 @@ msgid ""
 "Imperator, Lord of the Great Empire of Lavinium, Commander of the Twelve "
 "Legions!"
 msgstr ""
+"Üdvözöllek, Alfhelm, Hódító Alfric fia! A Laviniumi Nagy Birodalom Urának, "
+"Quirinius Maximus Császárnak a köszöntését hozom, aki a Tizenkét Légió "
+"Parancsnoka!"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:148
@@ -2405,6 +2753,8 @@ msgid ""
 "Well this is a grand welcome. Do you come to cede the crown of the Imperator "
 "to us?"
 msgstr ""
+"Nos ez egy szép köszöntés volt. Azért jöttél, hogy a Császár koronáját "
+"felajánljad nekünk?"
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:152
@@ -2414,11 +2764,14 @@ msgid ""
 "back to Ceresia or even back to the far north, and not attack us. Leave us "
 "in peace."
 msgstr ""
+"Nem, de a Császár nevében egy ajánlatot tennék számotokra. Évi adófizetést "
+"vállalunk, amennyit csak akartok, ha most visszatértek Ceresiába, vagy még "
+"északabbra, és nem támadtok meg minket. Békében szeretnénk élni."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:156
 msgid "What sort of tribute?"
-msgstr ""
+msgstr "S miféle adóra gondoltatok?"
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:161
@@ -2427,17 +2780,20 @@ msgid ""
 "addition to the four thousand we can give you right now. If you want to "
 "waste time deciding the specific numbers, we can."
 msgstr ""
+"A Császár felhatalmazott, hogy évi kétezer font aranyat ajánljak fel amellé "
+"a négyezer mellé, amit most rögtön átadnánk nektek. Ha ennél többet "
+"akarnátok, akkor azt nem vállaljuk. "
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:165
 msgid "A tempting offer."
-msgstr ""
+msgstr "Csábító ajánlat."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:169
 msgid ""
 "This gold you offer we could take for ourselves after we take your city!"
-msgstr ""
+msgstr "Ezt az aranyat úgy is megszerezhetjük, ha elfoglaljuk a városotokat."
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:173
@@ -2445,6 +2801,8 @@ msgid ""
 "True. But you will lose many men if you do so. Do not pretend that our city "
 "is undefended. Our walls are high, our gates are strong."
 msgstr ""
+"Igaz, de csak jelentős emberveszteség árán. Nehogy azt hidd, hogy a városunk "
+"védtelen. A falaink magasak, a kapuink erősek."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:177
@@ -2453,11 +2811,14 @@ msgid ""
 "the former; if you are prepared to so easily give us this gold, you must "
 "have much more behind those vast walls!"
 msgstr ""
+"Mi nem aranyat keresünk, hanem dicsőséget. Mégha aranyért jöttünk volna; túl "
+"könnyen adjátok. Ha ennyit tudtok nélkülözni, akkor sokkal többnek is kell "
+"lennie azok mögött a hatalmas falak mögött."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:181
 msgid "Wisely spoken."
-msgstr ""
+msgstr "Bölcsen beszélsz!"
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:185
@@ -2465,6 +2826,8 @@ msgid ""
 "We do not make this offer lightly! It will drain our treasuries. Put we do "
 "what we must to protect our people."
 msgstr ""
+"Nem könnyen hoztuk meg ezt a döntést. Ki kell ürítenünk a kincstárunkat. De "
+"megtesszük, ha az embereink védelméről van szó."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:190
@@ -2472,21 +2835,23 @@ msgid ""
 "I always knew these Lavinians were but merchants in their hearts. Harn, "
 "would you have us buy their coward's wares?"
 msgstr ""
+"Mindig is tudtam, hogy ezeknek a laviniaiaknak az ereiben kalmárvér folyik. "
+"Harn, te elfogadnád, hogy ilyen semmiséggel kiszúrják a szemed?"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:194
 msgid "I would not."
-msgstr ""
+msgstr "Én nem."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:198
 msgid "You, Lavinian, get back to your master."
-msgstr ""
+msgstr "Te, laviniai, menj vissza a gazdádhoz!"
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:202
 msgid "I... I... very well."
-msgstr ""
+msgstr "Én... én... rendben."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:222
@@ -2495,18 +2860,21 @@ msgid ""
 "right, his city is strong against attack. We cannot simply attack it and "
 "hope to emerge unscathed."
 msgstr ""
+"Ahogy mondtam, tényleg nem gondolom, hogy el kellett volna fogadnod a "
+"császár ajánlatát. Bár van igazság abban, amit a küldönc mondott, ezek a "
+"falak erősen védettek. Egy egyszerű rohammal nem vehetjük be őket."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:226
 msgid ""
 "We would not emerge unscathed, of course not. This is war. But I see your "
 "point..."
-msgstr ""
+msgstr "Természetesen nem. Háborúban vagyunk. De értem, mire gondolsz..."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:230
 msgid "It seems to me we ought to siege the city."
-msgstr ""
+msgstr "Úgy látom, körbe kell zárnunk a várost."
 
 #. [message]: id=Alfhelm
 #. [message]: id=Gjaran
@@ -2515,7 +2883,7 @@ msgstr ""
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:149
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:234
 msgid "What?"
-msgstr ""
+msgstr "Micsoda?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:238
@@ -2524,6 +2892,9 @@ msgid ""
 "occasionally, but never try to take the walls. Eventually they will have to "
 "surrender to us. Surrender is better than slaughter."
 msgstr ""
+"Tábort ütünk mellette, s nem engedünk se ki, se be egy teremtett lelket se. "
+"Nyomás alatt tartjuk őket, de nem próbálunk áthatolni a falakon. A végén "
+"kénytelenek lesznek megadni magukat. A megadás jobb, mint a mészárlás."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:242
@@ -2531,11 +2902,13 @@ msgid ""
 "A siege seems kind of... cowardly. If I was a coward I would take "
 "Quirinius's gold."
 msgstr ""
+"A körbezárás... a gyávák fegyvere. Ha gyáva lennék, elfogadtam volna "
+"Quirinius aranyát."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:246
 msgid "How long would such a siege take?"
-msgstr ""
+msgstr "S mennyi ideig tarthat egy ilyesféle ostrom?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:250
@@ -2544,28 +2917,34 @@ msgid ""
 "everything from coming in and out, and we are less experienced than the "
 "Lavinians. It will not last only a few months as theirs do."
 msgstr ""
+"Pár évig, de lehet, kevesebb ideig. Valószínűleg nem tudjuk hermetikusan "
+"elzárni a várost, s megakadályozni, hogy ki-be jussanak dolgok, mivel e "
+"téren a laviniaiak sokkal gyakorlottabbak. Ők valószínűleg néhány hónap "
+"alatt elérnék a megadást."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:254
 msgid "What, Harn, you do not find the idea craven?"
 msgstr ""
+"Micsoda, Harn, te nem találod harcoshoz méltatlannak az ilyen ostromot?"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:258
 msgid ""
 "No, I do not. And a few years sounds reasonable to me. We have waited seven "
 "years already."
-msgstr ""
+msgstr "Nem. A pár év reálisnak tűnik. Hiszen eddig is vártunk már hét évet."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:262
 msgid "Very well... if the two of you think it wise, we will have a siege."
 msgstr ""
+"Jól van... ha mindketten így gondoljátok, akkor berendezkedünk ostromra."
 
 #. [scenario]: id=2_4_A_Fizzling_Torch
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:7
 msgid "A Fizzling Torch"
-msgstr ""
+msgstr "Egy égő fáklya"
 
 #. [part]
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:94
@@ -2573,6 +2952,8 @@ msgid ""
 "The siege dragged on for four long years. The Lavinians did not seem to grow "
 "weaker."
 msgstr ""
+"Az ostrom négy évig elhúzódott. A laviniaiak egyáltalán nem tűntek "
+"gyengébbeknek."
 
 #. [part]
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:98
@@ -2580,6 +2961,8 @@ msgid ""
 "Ranhilde said that they were about to crumble. And repeated herself a month "
 "later, and a month after that."
 msgstr ""
+"Ranhilde azt mondta, hogy már közel vannak a megadáshoz. Aztán ezt mondta "
+"egy hónap múlva, majd egy újabb hónap múlva is."
 
 #. [part]
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:102
@@ -2588,6 +2971,9 @@ msgid ""
 "bring the city down - though Ranhilde would not hear of it, insisting the "
 "siege would work."
 msgstr ""
+"A végén már nem hittem neki. A városfoglalás más módozatain kezdtem törni a "
+"fejem - bár Ranhilde nem értett egyet, makacsul ragaszkodott ahhoz, hogy a "
+"kiéheztetés célra fog vezetni.."
 
 #. [part]
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:106
@@ -2595,6 +2981,8 @@ msgid ""
 "It seemed to me that the city must have a source of food within its walls. "
 "If we could destroy that, it would be forced to surrender."
 msgstr ""
+"Úgy láttam, hogy óriási élelemtartalékok vannak a falakon belül. Ha ezt meg "
+"tudnánk semmisíteni, kierőszakolhatnánk a megadást. "
 
 #. [part]
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:110
@@ -2604,6 +2992,11 @@ msgid ""
 "wall that runs over the water, find the stores, burn them, and leave out the "
 "east exit before the guard there was warned to lower the sluicegates."
 msgstr ""
+"Összegyűjtöttem a legkeményebb sajkásokat, és elmondtam nekik a tervemet. "
+"Lavinium fölött vízre ereszkedve lecsoroghatnánk a városig, a folyó hátán "
+"behatolhatnánk a falak mögé, megkereshetnénk az élelemraktárakat és "
+"felgyújthatnánk azokat, majd a keleti oldalon ki is evezhetnénk, mielőtt a "
+"zsilipeket felhúzzák."
 
 #. [part]
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:114
@@ -2612,21 +3005,24 @@ msgid ""
 "possible. And I came south for glory. Through this plan, I would either gain "
 "it, or die."
 msgstr ""
+"Őrült ötletnek tűnt, de bíztam a hajósaimban, s ők azt mondták, meg lehet "
+"csinálni. Én pedig a dicsőségért jöttem délre. S e terv révén vagy elérem, "
+"vagy meghalok."
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:131
 msgid "Enter Lavinium through the western rivergate"
-msgstr ""
+msgstr "Bejutsz Laviniumba a nyugati zsilipen keresztül"
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:135
 msgid "Start the fire with Alfhelm"
-msgstr ""
+msgstr "Alfhelm tüzet gyújt a belvárosban"
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:139
 msgid "Exit Lavinium through the eastern rivergate"
-msgstr ""
+msgstr "Elhagyod Laviniumot a keleti zsilipen keresztül"
 
 #. [message]: role=Seaman
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:228
@@ -2635,16 +3031,19 @@ msgid ""
 "only have until sunrise, I reckon, before the Lavinians completely overwhelm "
 "us."
 msgstr ""
+"Szóval a terv az, hogy bejutunk és kiérünk, mielőtt a laviniaiak észbe "
+"kapnának. S ha jól gondolom napkelte előtt végeznünk kell, nehogy a "
+"laviniaiak megtámadják a tábort, míg távol vagyunk.."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:232
 msgid "That will be long enough."
-msgstr ""
+msgstr "Igen, napkeltére vissza kell érnünk."
 
 #. [message]: role=Seaman
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:236
 msgid "If it is, it is."
-msgstr ""
+msgstr "Ha vissza kell, akkor visszaérünk."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:240
@@ -2652,6 +3051,8 @@ msgid ""
 "Come on, let's get this done. I'll carry the torch, once we get there I'll "
 "light the fire."
 msgstr ""
+"Akkor gyerünk, essünk túl rajta! Nálam lesz a fáklya, s egy alkalmas helyen "
+"én fogok tüzet gyújtani."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:255
@@ -2659,106 +3060,108 @@ msgid ""
 "The guards don't look alert... we may be able to sneak by them, but if we "
 "attack them the guard will be awakened."
 msgstr ""
+"Az őrök eléggé figyelmetlenek... átcsúszhatunk közöttük, de ha megtámadjuk "
+"őket, biztos riadót fújnak."
 
 #. [message]
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:271
 msgid "Alert! Alert! The marauders are coming in through the river!"
-msgstr ""
+msgstr "Riadó! Riadó! A martalócok a folyón támadnak!"
 
 #. [unit]: type=Nemidian Hippopotamus, id=Aelyntus D
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:280
 msgid "Aelyntus Daendylus"
-msgstr ""
+msgstr "Aelyntus Daendylus"
 
 #. [message]: id=Aelyntus D
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:305
 msgid "We'll do what we can, but it'll be some time before all is ready!"
-msgstr ""
+msgstr "Megtesszük, ami tőlünk telik, de egy kis időbe telik, míg odaérünk!"
 
 #. [message]: id=Aelyntus D
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:317
 msgid "The guard will come... errghh..."
-msgstr ""
+msgstr "Közeledik az őrség... errghhh..."
 
 #. [unit]: type=Lavinian Centurion, id=Dectus S
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:344
 msgid "Dectus Silvestrus"
-msgstr ""
+msgstr "Dectus Silvestrus"
 
 #. [message]: id=Dectus S
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:349
 msgid "The city is being burned! Quickly, we must put out the fire!"
-msgstr ""
+msgstr "Tűz van! Gyorsan, meg kell fékeznünk a lángokat!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:353
 msgid "I think that means we should get out here, now!"
-msgstr ""
+msgstr "Azt hiszem, most már elhagyhatjuk a várost!"
 
 #. [unit]: type=Nemidian Hippopotamus, id=Rensyllaeus D
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:360
 msgid "Rensyllaeus Daendylus"
-msgstr ""
+msgstr "Rensyllaeus Daendylus"
 
 #. [message]: speaker=unit
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:404
 msgid "We ought to take these bridges down..."
-msgstr ""
+msgstr "Le kellene rombolnunk ezt a hidat..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:417
 msgid "Burn, burn!"
-msgstr ""
+msgstr "Égj,égj!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:434
 msgid "Look... the wind has picked up the fire. It is spreading, quickly!"
-msgstr ""
+msgstr "Nézzétek... a szél is feltámadt. Gyorsan terjed a tűz!"
 
 #. [message]: speaker=unit
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:455
 msgid "The foodstuff is undoubtedly in the citadel..."
-msgstr ""
+msgstr "Az élelemtartalék nyilván a citadellában van..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:468
 msgid "Good thing we already set a fire there!"
-msgstr ""
+msgstr "Nagyszerű, ott fogok tüzet gyújtani!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:474
 msgid "We ought to burn it down!"
-msgstr ""
+msgstr "Fel kéne gyújtani!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:491
 msgid "Time for a fire..."
-msgstr ""
+msgstr "Itt azidő, tüzet gyújtok..."
 
 #. [message]: type=Peasant
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:516
 msgid "The Marauders are attacking! AUGH!!!"
-msgstr ""
+msgstr "Támadnak a martalócok! AUGH!!!"
 
 #. [message]: type=Praetorian Guard
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:562
 msgid "The citadel is under attack! Defend the emperor!"
-msgstr ""
+msgstr "Megtámadták a citadellát! Védjétek meg a császárt!"
 
 #. [filter]: id=Alfhelm
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:597
 msgid "Augh!"
-msgstr ""
+msgstr "Augh!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:620
 msgid "We have done what we can to the Lavinians' food. Let us leave!"
-msgstr ""
+msgstr "Elintéztük a laviniaiak élelemraktárát, gyerünk innét!"
 
 #. [scenario]: id=2_5_Betrayal
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:8
 msgid "Betrayal (Lavinium Falls)"
-msgstr ""
+msgstr "Árulás (Lavinium eleste)"
 
 #. [part]
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:85
@@ -2766,17 +3169,20 @@ msgid ""
 "I returned to our camp to inform Harn and Ranhilde what the smoke rising "
 "from the city signified. And to prepare for the battle that was soon to come."
 msgstr ""
+"Visszatértem a táborunkba, hogy Harnnak és Ranhildének is elmondjam, mit "
+"jelent a város felett gomolygó füst. S felkészüljünk a mindenképpen "
+"bekövetkező csatára."
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:101
 msgid "Kill the Imperator Quirinius Maximus"
-msgstr ""
+msgstr "Megölöd Quirinius Maximus császárt"
 
 #. [label]
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:107
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:170
 msgid "Marauder Camp"
-msgstr ""
+msgstr "Martalóc tábor"
 
 #. [message]: speaker=narrator
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:199
@@ -2784,6 +3190,8 @@ msgid ""
 "Within the walls, Imperator Quirinius Maximus debated with the advisor "
 "Sextus Raetius."
 msgstr ""
+"A falakon belül Quirinius Maximus császár a tanácsadójával, Sextus "
+"Raetusszal vitatkozott."
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:203
@@ -2791,6 +3199,8 @@ msgid ""
 "Your highness, the fire has devastated the city. We must surrender to "
 "Alfhelm or starve to death."
 msgstr ""
+"Felség, a tűz elpusztította a várost. Vagy megadjuk magunkat Alfhelmnek, "
+"vagy éhenhalunk."
 
 #. [message]: id=Quirinius M
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:207
@@ -2798,11 +3208,13 @@ msgid ""
 "The Lavinian Empire has endured for over nine hundred years. I will not be "
 "responsible for its downfall."
 msgstr ""
+"A Laviniai Birodalom több, mint kilencszáz éven át fennállt. Nem hagyhatom, "
+"hogy most elbukjon."
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:211
 msgid "We have been over this before. The Empire has already fallen."
-msgstr ""
+msgstr "Ezen már régen túlvagyunk. A Birodalomnak már vége van."
 
 #. [message]: id=Quirinius M
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:215
@@ -2811,11 +3223,13 @@ msgid ""
 "Lavinium still stands. It will stand until it is defeated. It will not "
 "surrender."
 msgstr ""
+"Addig nincs, amíg én ülök az őseim trónján. És Lavinium még mindig áll. És "
+"ellenáll a végsőkig. Soha nem adja meg magát."
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:219
 msgid "Alfhelm already has us beat!"
-msgstr ""
+msgstr "Hiszen Alfhelm már győzött!"
 
 #. [message]: id=Quirinius M
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:223
@@ -2823,11 +3237,14 @@ msgid ""
 "The marauder dogs will never enter this city! We are done here, Sextus. We "
 "do not surrender! There is one other way - we must fight. This is our plan."
 msgstr ""
+"A martalóc kutyák soha nem lépnek a város kövére. Ezt eldöntöttük, Sextus. "
+"Nem adjuk meg magunkat! Van más lehetőség is - harcolni fogunk. Ezt fogjuk "
+"tenni!"
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:227
 msgid "Yes, your highness..."
-msgstr ""
+msgstr "Igen, felség..."
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:234
@@ -2835,11 +3252,13 @@ msgid ""
 "I can't let him doom our city for the sake of his empire... something must "
 "be done..."
 msgstr ""
+"Nem hagyhatom, hogy a birodalma miatt elpusztuljon a városunk... valamit "
+"tennem kell..."
 
 #. [message]: speaker=narrator
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:244
 msgid "In the Marauder camp, meanwhile..."
-msgstr ""
+msgstr "Ezalatt a martalóc táborban..."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:248
@@ -2847,6 +3266,8 @@ msgid ""
 "So you mean you went into Lavinium, burned part of the city, destroyed their "
 "supplies, and got out alive? Brilliant!"
 msgstr ""
+"Szóval azt mondod, hogy behatoltál Laviniumba, felgyújtottad a belvárost, "
+"megsemmisítetted a készleteiket, és élve kijutottál? Hiszen ez fantasztikus!"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:252
@@ -2854,11 +3275,13 @@ msgid ""
 "No it's not! Don't you remember what fire did in Ceresia? We don't want to "
 "burn the city to the ground!"
 msgstr ""
+"Egyáltalán nem az! Nem emlékszel, mit tett a tűz Ceresiában? Nem akarhatjuk "
+"porrá égetni a várost!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:256
 msgid "What, are you saying I shouldn't have done it?"
-msgstr ""
+msgstr "Mi van? Azt mondod, hogy nem ezt kellett volna csinálnom?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:260
@@ -2866,27 +3289,31 @@ msgid ""
 "Of course not! Why didn't you consult me first? I didn't get you to marry me "
 "so you could go destroy Lavinium when we were about to conquer it!"
 msgstr ""
+"Igen, azt! Miért nem kérdeztél meg engem előtte? Nem azért küzdöttem, hogy "
+"elvegyél, és aztán elpusztítsd Laviniumot, mikor már küszöbön áll az "
+"elfoglalása!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:265
 msgid "I - wait, what? You got me to marry you?"
-msgstr ""
+msgstr "Én - várjunk csak, mit mondtál? Küzdöttél, hogy elvegyelek?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:270
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:274
 msgid "What did she mean, Harn?"
-msgstr ""
+msgstr "Mit akar ez jelenteni, Harn?"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:278
 msgid ""
 "Mmm... Well... You see... When we were in Berdssenhold, those years ago..."
 msgstr ""
+"Mmmm... Hát... Vagyis... Amikor Berdssenholdban, néhány évvel ezelőtt..."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:286
@@ -2894,37 +3321,39 @@ msgid ""
 "I asked Harn to convince you to marry me. It had to happen - everything Harn "
 "told you was true."
 msgstr ""
+"Én kértem meg Harnot, hogy győzzön meg arról, hogy feleségül vegyél. Ennek "
+"így kellett lennie - minden, amit Harn mondott neked, igaz volt."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:290
 msgid "So why did you pretend to not know?"
-msgstr ""
+msgstr "S miért tettél úgy, mintha nem is tudnál róla?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:294
 msgid "I... had my reasons."
-msgstr ""
+msgstr "Öö... megvolt rá az okom."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:298
 msgid "This is not acceptable! I can't trust either of you!"
-msgstr ""
+msgstr "Ez nem válasz. Nem bízhatok bennetek tovább!"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:302
 msgid ""
 "Well... yes, you're right, if I wasn't involved I would tell you the same."
-msgstr ""
+msgstr "Nos... igazad van, ha nem rólam lenne szó, magam is csak ezt mondanám."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:306
 msgid "So what will you do, king Alfhelm?"
-msgstr ""
+msgstr "S most mit akarsz tenni, Alfhelm király?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:310
 msgid "Leave, both of you. Go back to Marauderdom."
-msgstr ""
+msgstr "Távozzatok, mindketten! Vissza Martalócországba!"
 
 #. [message]: id=Harn
 #. [message]: id=Ranhilde
@@ -2933,7 +3362,7 @@ msgstr ""
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:314
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:379
 msgid "What?!"
-msgstr ""
+msgstr "Micsoda?!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:318
@@ -2941,16 +3370,18 @@ msgid ""
 "I can't have you here if I can't trust you. Go back to Erda Bardssen and do "
 "your lying to him."
 msgstr ""
+"Nem tarthatok magam mellett olyan embereket, akikben nem bízok meg. Menjetek "
+"vissza Erda Bardssenhez, s őt etessétek a hazugságaitokkal!"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:322
 msgid "I..."
-msgstr ""
+msgstr "Én..."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:326
 msgid "Very well, King. Farewell, for now. Kill the Lavinian dogs."
-msgstr ""
+msgstr "Parancsodra, királyom. Ég áldjon! Öld meg a laviniai kutyákat!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:354
@@ -2958,21 +3389,25 @@ msgid ""
 "Well... the Lavinians seem to have realized they can't stay in their city "
 "forever - they're preparing for battle. It's time to fight."
 msgstr ""
+"Végre... a laviniaiak megértették, hogy nem zárkózhatnak be továbbra is a "
+"városuk falai mögé - csatára készülnek. Eljött a mi időnk!"
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:367
 msgid "Wait! Wait!"
-msgstr ""
+msgstr "Várj! Várj!"
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:375
 msgid "We surrender!"
-msgstr ""
+msgstr "Megadjuk magunkat!"
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:383
 msgid "You're mad to fight them, Quirinius! You're no longer my emperor!"
 msgstr ""
+"Őrült vagy, Quirinius, ha harcolni akarsz ellenük! Többé nem vagy a "
+"császárom!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:387
@@ -2980,11 +3415,13 @@ msgid ""
 "Very well. I accept your surrender. Help me defeat this Quirinius, and I'll "
 "leave you your city intact. Fail me, and it burns to the ground."
 msgstr ""
+"Rendben van, elfogadom a megadástokat. Segítsetek nekem, Quirinius ellen, s "
+"megkímélem a városotokat. Ha cserbenhagytok, porrá égetem az egészet!"
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:391
 msgid "I accept your terms."
-msgstr ""
+msgstr "Elfogadom a feltételeidet!"
 
 #. [message]: id=Quirinius M
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:395
@@ -2992,36 +3429,38 @@ msgid ""
 "You will pay for this, Sextus Raetius. You will be remembered as the man who "
 "led the Empire to destruction!"
 msgstr ""
+"Ezt megkeserülöd, Sextus Raetius. Úgy fognak rád emlékezni, mint aki "
+"pusztulásba döntötte a Birodalmat!"
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:399
 msgid "The empire was destroyed long before I was born."
-msgstr ""
+msgstr "A birodalom összeomlott már az én születésem előtt."
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:414
 msgid "Argh..."
-msgstr ""
+msgstr "Argh..."
 
 #. [message]: id=Quirinius M
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:418
 msgid "So shall all traitors perish!"
-msgstr ""
+msgstr "Végezzetek az árulókkal!"
 
 #. [message]: id=Quirinius M
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:433
 msgid "The empire has fallen..."
-msgstr ""
+msgstr "A birodalom megsemmisült..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:437
 msgid "Lavinium is ours!"
-msgstr ""
+msgstr "Lavinium a miénk!"
 
 #. [message]: id=Sextus R
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:446
 msgid "And what do you plan to do with it?"
-msgstr ""
+msgstr "S mik a terveid vele?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:450
@@ -3031,6 +3470,10 @@ msgid ""
 "you to your people. What they choose to do to you, I do not care. They may "
 "make you king. They may kill you."
 msgstr ""
+"Bármily meglepő is számodra, állom a szavam - igen, állom. Miért rombolnám "
+"le ezt a gyönyörő várost, mikor uralhatom is? Hogy veled mi lesz - azt a "
+"népedre bízom. Ők ítélnek fölötted, én nem avatkozom be. Királlyá tehetnek, "
+"de meg is ölhetnek."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/2_5_Betrayal.cfg:456
@@ -3038,11 +3481,13 @@ msgid ""
 "I see no reason not to keep my vow to that traitor Lavinian. This city is "
 "too great to destroy."
 msgstr ""
+"Nincs okom, hogy ne tartsam be az ígéretemet, amit annak a laviniai árulónak "
+"tettem. Ez a város túl fenséges ahhoz, hogy elpusztítsam."
 
 #. [scenario]: id=2_Epilogue
 #: Alfhelm/scenarios/2_Epilogue.cfg:7
 msgid "Part II Epilogue"
-msgstr ""
+msgstr "II. rész Epilógus"
 
 #. [part]
 #: Alfhelm/scenarios/2_Epilogue.cfg:37
@@ -3050,6 +3495,8 @@ msgid ""
 "Lavinium was now mine. I spent several months there, as the city was "
 "rebuilt, slowly."
 msgstr ""
+"Lavinium most már az enyém. Hónapokat töltöttem el benne, s láttam, ahogy "
+"lassan kiheverte a háborús pusztítást."
 
 #. [part]
 #: Alfhelm/scenarios/2_Epilogue.cfg:41
@@ -3059,6 +3506,10 @@ msgid ""
 "stood in the way, dividing my realm in half. I could not expect to stay king "
 "of my own people if I remained in the south."
 msgstr ""
+"Meghódítottam Laviniát, Ceresiát, Arendiát... de nem tudtam kézben tartani "
+"honi országomat és új szerzeményeimet. Az Arendiai-hegység ott magasodott "
+"köztük, s két felé osztotta az uralmam alatti területeket. Ha délen "
+"tanyázok, nem várhattam a népemtől, hogy továbbra is a királyának tekintsen."
 
 #. [part]
 #: Alfhelm/scenarios/2_Epilogue.cfg:45
@@ -3068,6 +3519,10 @@ msgid ""
 "marauderdom, leaving Lavinium in the hands of a loyal supporter as I had "
 "done in Ceresia. I stayed in Lavinium as king but a single year."
 msgstr ""
+"És meguntam a déli földeket. Télen egyszerűen befagyott a vidék. Az északi "
+"erdőségeket szerettem, nem ezeket a pusztaságokat. Végül rászántam magam, "
+"hogy hazatérek, s egy királyhű emberemet hagytam Lavinium trónján, ahogy "
+"Ceresia trónján is. Lavinium királyaként csupán egy évet uralkodtam."
 
 #. [part]
 #: Alfhelm/scenarios/2_Epilogue.cfg:49
@@ -3075,21 +3530,23 @@ msgid ""
 "I would not let myself wonder whether I also returned in order to see once "
 "more Ranhilde."
 msgstr ""
+"De azon sem csodálkoznék, ha visszatérésemet az motiválta volna, hogy még "
+"egyszer lássam Ranhildét."
 
 #. [scenario]: id=3_0t_The_Well
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:9
 msgid "The Well"
-msgstr ""
+msgstr "A kút"
 
 #. [side]
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:43
 msgid "Cavernei"
-msgstr ""
+msgstr "Barlanglakó"
 
 #. [part]
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:48
 msgid "PART III (951-953 SI): THE DARK DEPTHS OF THE FOREST..."
-msgstr ""
+msgstr "III. rész (w. i. sz. 951-53): Az erdők mélyén..."
 
 #. [part]
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:52
@@ -3097,16 +3554,18 @@ msgid ""
 "The journey back to the Seat of Three Kings went well, until we came to the "
 "Pass of Arendia. There, we met a mounted messenger flying south."
 msgstr ""
+"Az út vissza Seat of Three Kingsbe esménytelenül telt, míg el nem értünk az "
+"Arendiai-hágóhoz. Ott találkoztunk egy északról jövő futárral."
 
 #. [unit]: type=Marauder Mounted Axeman, id=Gjaran
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:99
 msgid "Gjaran Gjallansson"
-msgstr ""
+msgstr "Gjaran Gjallansson"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:105
 msgid "Stop! What message are you bearing and for whom?"
-msgstr ""
+msgstr "Megállj! Kinek és milyen üzenetet viszel? "
 
 #. [message]: id=Gjaran
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:109
@@ -3114,16 +3573,17 @@ msgid ""
 "I bring an urgent message from Queen Ranhilde to the King - I mean, to you, "
 "Your Highness."
 msgstr ""
+"Sürgős üzenetet hozok Ranhilde királynétól a királynak - azaz neked, felség."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:113
 msgid "Oh? What does this message say?"
-msgstr ""
+msgstr "Oh! Halljam az üzenetet!"
 
 #. [message]: id=Gjaran
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:117
 msgid "It says:"
-msgstr ""
+msgstr "Tehát:"
 
 #. [message]: speaker=narrator
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:122
@@ -3135,16 +3595,22 @@ msgid ""
 "This message was sent on the first day of autumn in the nine-hundred-first "
 "and final year of the Lavinian Empire."
 msgstr ""
+"Alfhelm királynak a királynéjától: Vaniyera sidhe úr korábban sosem "
+"tapasztalt erővel támadta meg az országunkat. Seregeinket keletre vezetem, "
+"hogy megütközzek velük, bár kevés esélyünk van a győzelemre. Ahogy megkapod "
+"az üzenetet, térj vissza Seat of Three Kingsbe, és védd meg az országot! Az "
+"üzenet kelt az ősz első napján a Laviniai Birodalom kilencszázegyedik és "
+"egyben utolsó évében."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:126
 msgid "What? It's almost winter already! We must get back, quickly."
-msgstr ""
+msgstr "Micsoda? Hiszen már majdnem tél van. Azonnal vissza kell térnünk!"
 
 #. [message]: id=Gjaran
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:130
 msgid "Indeed."
-msgstr ""
+msgstr "Úgy van."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:137
@@ -3152,11 +3618,13 @@ msgid ""
 "Wait - Ranhilde said that it was the Thunderblade Vaniyera who led the "
 "attacks on our people, yes?"
 msgstr ""
+"Várj csak - Ranhilde azt mondta, hogy Vaniyera, a mennydörgőpengés vezeti a "
+"támadást a népünk ellen?"
 
 #. [message]: id=Gjaran
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:141
 msgid "Indeed. He was present personally at many of the battles."
-msgstr ""
+msgstr "Valóban. Számos csatában személyesen is feltűnt."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:145
@@ -3165,22 +3633,25 @@ msgid ""
 "returning and to send forces to Portum Frigae. That's where I'm headed. I "
 "have business to attend to here."
 msgstr ""
+"Tehát igaz..., jól van, Gjallansson, menj északra és mondd meg Erda "
+"Bardssennek, hogy jövök, és küldje a seregeinket Portum Frigaebe. Én is oda "
+"tartok. Miután elintéztem egy kis apróságot itt."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:153
 msgid "Go, now!"
-msgstr ""
+msgstr "Távozhatsz!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:161
 msgid "Now, we shall see if the stories are true..."
-msgstr ""
+msgstr "És most lássuk, igazat mondanak-e a legendák..."
 
 #. [message]: speaker=narrator
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:167
 msgid ""
 "Alfhelm dropped a gold coin into the well along with the following note:"
-msgstr ""
+msgstr "Alfhelm egy aranypénzt dobott a kútba, s egy üzenetet is mellékelt:"
 
 #. [message]: speaker=narrator
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:172
@@ -3188,22 +3659,24 @@ msgid ""
 "TO THE HIDDEN FOLK. I, Alfhelm King of the Marauders, have business to "
 "discuss with you."
 msgstr ""
+"A REJTŐZKÖDŐ NÉPNEK. Én, Alfhelm, a martalócok királya üzletet szeretnék "
+"kötni veletek."
 
 #. [message]: speaker=narrator
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:177
 msgid "Alfhelm waited there for a night and a day, and then..."
-msgstr ""
+msgstr "Aztán egész éjjel, majd másnap estig várakozott a kútnál, végre..."
 
 #. [unit]: type=Cavernei Runemaster, id=Gali
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:184
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:211
 msgid "Gali"
-msgstr ""
+msgstr "Gali"
 
 #. [message]: id=Gali
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:188
 msgid "What is it that you desire, Alfhelm son of Alfric?"
-msgstr ""
+msgstr "Mit kívánsz tőlünk, Alfric fia Alfhelm?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:192
@@ -3211,6 +3684,8 @@ msgid ""
 "I have heard that you dwarves forged the thunderblades of the Sidhe. Can you "
 "tell me if this is true?"
 msgstr ""
+"Hallottam, hogy ti, törpök kovácsoltátok a sidhék mennydörgő pengéit. "
+"Valóban így van?"
 
 #. [message]: id=Gali
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:196
@@ -3219,6 +3694,8 @@ msgid ""
 "me that question, you have wasted my time. I do not look kindly upon those "
 "who waste my time."
 msgstr ""
+"Igen. Ez nem titok. De ha csak ezért hívtál a felszínre, hogy ezt "
+"megkérdezd, az időpocsékolás. S én nem szeretem, ha pocsékolják az időmet."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:200
@@ -3227,6 +3704,9 @@ msgid ""
 "elf has ever fallen in battle while wielding one, unless slain by treachery "
 "or arrows from afar."
 msgstr ""
+"Nem, nem... Egy üzletet ajánlanék. Ti készítettétek a mennydörgő pengéket. S "
+"még nem hallottam tündéről, aki ezt viselve csatában esett volna el, "
+"hacsaknem árulás következtében, vagy afarból készült nyíltól eltalálva."
 
 #. [message]: id=Gali
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:204
@@ -3234,6 +3714,8 @@ msgid ""
 "That is due as much to the skill of the Sidhe at swordcraft as it is to our "
 "own metalwork."
 msgstr ""
+"Ebben legalább akkora szerepe van a sidhe kardforgatóknak, mint a mi "
+"kovácsmesterségünknek. "
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:208
@@ -3241,11 +3723,14 @@ msgid ""
 "But you admit your metalwork makes a difference. Well, what I want is a "
 "sword that can defeat a Sidhe Thunderblade in single combat."
 msgstr ""
+"De azt el kell ismerni, hogy a ti kovácstechnikátok különleges. Nos, amit "
+"szeretnék, az egy kard, amivel párbaj során legyőzhetek egy sidhe "
+"mennydörgőpengést is"
 
 #. [message]: id=Gali
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:212
 msgid "Swords do not defeat people in battle."
-msgstr ""
+msgstr "Nem a kard vágja le az embert a csatában."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:216
@@ -3254,11 +3739,14 @@ msgid ""
 "wages war on my homeland. Do you understand what I am asking for? Can you "
 "give me such a sword?"
 msgstr ""
+"Jól van, tehát egy olyan kardot szeretnék, amivel le tudom győzni Vaniyerát. "
+"Megölte a családomat, és most a hazámat is el akarja pusztítani. Érted, "
+"miért kérem? Tudsz nekem egy ilyen kardot adni?"
 
 #. [message]: id=Gali
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:220
 msgid "The only language that matters to the dwarves is that of gold."
-msgstr ""
+msgstr "Az egyetlen nyelv, amelyen a törpök értenek, az az arany nyelve."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:224
@@ -3266,17 +3754,19 @@ msgid ""
 "I have no shortage of gold. Any price you name, I will pay - for the sword. "
 "Do you have one?"
 msgstr ""
+"Nem szűkölködöm az aranyban. Mondj egy összeget, megadom - a kardért. Ide "
+"tudod adni?"
 
 #. [message]: id=Gali
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:228
 msgid "No, I do not. But I can make one. For three thousand pounds of gold."
-msgstr ""
+msgstr "Most nem. De tudok készíteni egyet. Háromezer font arany az ára."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:232
 msgid ""
 "That's... that's nearly a quarter of the gold we brought out of Lavinium!"
-msgstr ""
+msgstr "Ez... ez majdnem a negyede az aranynak, amit Laviniumból hoztunk!"
 
 #. [message]: id=Gali
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:236
@@ -3285,33 +3775,35 @@ msgid ""
 "looking for it; we will bring it to you. The price is final. Do we have an "
 "agreement?"
 msgstr ""
+"Átadom neked a kardot, mielőtt harcba indulnál Vaniyera ellen. Ne keress "
+"érte korábban; mi visszük a helyszínre. Az ár utolsó ajánlat. Áll az alku?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:240
 msgid "I... yes. We have a deal."
-msgstr ""
+msgstr "Én... igen. Áll az alku."
 
 #. [message]: id=Gali
 #: Alfhelm/scenarios/3_0t_The_Well.cfg:244
 msgid "Very well. Farewell, Alfhelm son of Alfric."
-msgstr ""
+msgstr "Nagyszerű! Ég áldjon, Alfric fia, Alfhelm!"
 
 #. [scenario]: id=3_1_The_New_Border
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:7
 msgid "The New Border"
-msgstr ""
+msgstr "Új határ"
 
 #. [side]: type=Wild Elf Warmage, id=Elyvuin
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:45
 msgid "Elyvuin"
-msgstr ""
+msgstr "Elyvuin"
 
 #. [unit]: type=Marauder Pillager, id=Wyborg
 #. [side]: type=Marauder Pillager, id=Wyborg
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:134
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:62
 msgid "Wyborg Bjorwulfsson"
-msgstr ""
+msgstr "Wyborg Bjorwulfsson"
 
 #. [part]
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:68
@@ -3319,33 +3811,38 @@ msgid ""
 "We set a course northeastward towards Portum Frigae, the old Silvian city. "
 "There I hoped to raise a new army and go against the elves."
 msgstr ""
+"Északkelet felé vettük az irányt, Portum Frigaebe, az ősi silviai városba. "
+"Ott, reményeim szerint, új sereget toborozhatok, s megindulhatok a tündék "
+"ellen."
 
 #. [part]
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:71
 msgid "When we got there, however, the city was in no position to aid us."
 msgstr ""
+"Ahogy odaértünk, reményeim szétfoszlottak, a város egyáltalán nem volt abban "
+"a helyzetben, hogy segítsen nekünk."
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:90
 msgid "Bring Alfhelm to the citadel of Portum Frigae"
-msgstr ""
+msgstr "Alfhelm eljut Portum Frigae citadellájához"
 
 #. [objective]: condition=lose
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:98
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:190
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:222
 msgid "Death of Wyborg Bjorwulfsson"
-msgstr ""
+msgstr "Wyborg Bjorwulfsson meghal"
 
 #. [label]
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:110
 msgid "To Old Silvium"
-msgstr ""
+msgstr "Ósilvium felé"
 
 #. [label]
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:114
 msgid "Portum Frigae"
-msgstr ""
+msgstr "Portum Frigae"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:120
@@ -3353,6 +3850,8 @@ msgid ""
 "What is this? The fields are untended... can it be that the Sidhe are "
 "already besieging the city?"
 msgstr ""
+"MI ez? A mezők elhagyottak... lehet, hogy a sidhék ostrom alá vették a "
+"várost?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:137
@@ -3360,6 +3859,8 @@ msgid ""
 "It is as we feared - the elves have attacked! Quick, we rally at the castle "
 "- then we must crush this Sidhe warlord."
 msgstr ""
+"Ettől féltünk - tünde támadás! Gyorsan, gyülekezzünk a kastélynál - aztán "
+"vágjuk le azt a sidhe hadurat."
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:142
@@ -3367,16 +3868,19 @@ msgstr ""
 msgid ""
 "Bring Alfhelm to the citadel of Portum Frigae, then defeat the Sidhe leader"
 msgstr ""
+"Alfhelm bejut Portum Frigae citadellájeba, azután legyőzi a sidhe vezért"
 
 #. [message]: speaker=unit
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:161
 msgid "What is this, someone outside the walls besides the damned elves?"
-msgstr ""
+msgstr "Mi az ott, valakik a falakon kívül az átkozott tündékhez csatlakoztak?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:165
 msgid "I am Alfhelm Alfricsson, your king! I return victorious from Lavinium."
 msgstr ""
+"Alfric fia Alfhelm vagyok, a királyotok! Győzedelmesen tértem vissza "
+"Laviniumból."
 
 #. [message]: id=Wyborg
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:169
@@ -3385,41 +3889,45 @@ msgid ""
 "of the river. The lord of the city, Wyborg Bjorwulfsson, only barely manages "
 "to defend the rest."
 msgstr ""
+"A jószerencse hozott erre a vidékre! A tündék már mindent elfoglaltak a "
+"folyótól keletre. A város ura, Wyborg Bjorwulfsson a maradékot próbálja "
+"megvédeni."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:173
 msgid "This is unacceptable... we must drive these Sidhe from our lands."
-msgstr ""
+msgstr "Ez tűrhetetlen... ki kell űznünk ezeket a tündéket a földjeinkről."
 
 #. [message]: id=Wyborg
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:205
 msgid "My lord, the resources of the city are at your disposal."
-msgstr ""
+msgstr "Uram, rendelkezz az erőinkkel!"
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:214
 msgid "Defeat the Sidhe leader"
-msgstr ""
+msgstr "Legyőzöd a sidhe vezért"
 
 #. [message]: id=Elyvuin
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:235
 msgid "Rage of winter, choke this dog with ice and snow! I perish!"
-msgstr ""
+msgstr "Pusztító tél, fullaszd ezeket a kutyákat jégbe és hóba! Nekem végem!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:246
 msgid "We are victorious!"
-msgstr ""
+msgstr "Győztünk!"
 
 #. [message]: id=Wyborg
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:250
 msgid "Until winter comes and slays us as he promised."
 msgstr ""
+"Mígnem jön a tél, és el nem pusztít mindnyájunkat, ahogy a tünde mondta."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:254
 msgid "Winter? What is that to us? More firewood?"
-msgstr ""
+msgstr "Tél? Ugyan mit számít az? Több tűzrevalóról kell gondoskodnunk."
 
 #. [message]: id=Wyborg
 #: Alfhelm/scenarios/3_1_The_New_Border.cfg:258
@@ -3427,11 +3935,13 @@ msgid ""
 "I wouldn't scoff at a Sidhe weather-threat. We'll probably be frozen in by "
 "tomorrow morning."
 msgstr ""
+"Én nem becsülném alá a sidhe téllel való fenyegetőzését. Talán már holnap "
+"reggel megjön a fagy."
 
 #. [scenario]: id=3_2_A_Harsh_Winter
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:7
 msgid "A Harsh Winter"
-msgstr ""
+msgstr "Zord tél"
 
 #. [part]
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:89
@@ -3441,6 +3951,10 @@ msgid ""
 "Frost Elves had turned against us as well. It would have been madness to "
 "attempt any expedition east in that weather."
 msgstr ""
+"Wyborg jóslata sajnos pontosnak bizonyult. Még aznap éjszaka borzalmas "
+"hóvihar tört a városra, s minden megfagyott. Már majdnem azt hittem, hogy a "
+"fagytündék fordultak ellenünk. Ebben az ítéletidőben bármiféle hadjárat "
+"őrültségnek tűnt."
 
 #. [part]
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:92
@@ -3450,6 +3964,11 @@ msgid ""
 "Wyborg Ranhilde and Harn had been in the city several weeks ago, but "
 "immediately set out east, and no news had come back of their fate."
 msgstr ""
+"Kénytelen voltam megvárni a hóolvadást - legalább háromhavi tétlenségre "
+"kárhoztattunk. Ez az időveszteség szinte megbetegített. Wyborgtól megtudtam, "
+"hogy Ranhilde és Harn néhány héttel korábban szintén megfordultak a "
+"városban, de rögtön tovább is indultak keletre, azóta semmi hír nem jött "
+"felőlük."
 
 #. [part]
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:95
@@ -3459,22 +3978,28 @@ msgid ""
 "the city. To stay warm we needed firewood, but none would dare to venture "
 "out while the bears haunted their steps."
 msgstr ""
+"De a legrosszabb csak ezután következett. Portum Frigaeben tartózkodásom "
+"második hónapjában óriás jegesmedvék érkeztek északról a nyugati "
+"erdőségekbe. Tüzifát kellett gyűjtenünk, hogy fűtsünk, de a medvék "
+"jelentette fenyegetés miatt senki nem mert az erdőbe merészkedni."
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:110
 msgid "Clear the forest of ice bears"
-msgstr ""
+msgstr "Megtisztítod az erdőt a jegesmedvéktől"
 
 #. [objective]: condition=lose
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:118
 msgid "Allow the bears to cross the bridge"
-msgstr ""
+msgstr "Egy medve áthatol a hídon"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:140
 msgid ""
 "Are you certain none will face the bears? What are you Wylflings, cowards?"
 msgstr ""
+"Hát egyetlen férfi sincs köztetek, aki szembeszállna a medvékkel? Milyen "
+"Wylflingek vagytok ti?"
 
 #. [message]: id=Wyborg
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:144
@@ -3482,6 +4007,8 @@ msgid ""
 "I am no coward, king, but to face those bears in this weather is certain "
 "death."
 msgstr ""
+"Nem vagyunk gyávák, királyom, de öngyilkosság ebben az időben szembeszállni "
+"a medvékkel."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:148
@@ -3489,6 +4016,8 @@ msgid ""
 "For some, perhaps, but we are the warriors who conquered the Imperial City. "
 "We will not stand idly by and let these bears terrorize us!"
 msgstr ""
+"Közönséges halandóknak igen, de mi harcosok vagyunk, akik meghódítottuk a "
+"Birodalmi Várost! Nem nézhetjük tétlenül, hogy a medvék terrorizálnak minket!"
 
 #. [message]: id=Wyborg
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:152
@@ -3496,11 +4025,13 @@ msgid ""
 "Very well, you may attempt to destroy the bears if you may. But I will not "
 "sacrifice myself in this struggle."
 msgstr ""
+"Valóban nem, megpróbálhatod megsemmisíteni a medvéket, ha akarod. De én nem "
+"áldozom fel magam egy ilyen harcban."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:156
 msgid "I would not want such a weakling!"
-msgstr ""
+msgstr "Nincs is szükségem ilyen puhányokra!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:165
@@ -3509,11 +4040,13 @@ msgid ""
 "expose more of us to weakness. A force of a few stout archers should "
 "suffice..."
 msgstr ""
+"Az lenne a legjobb, ha nem áldoznánk fel a legerősebb egységeinket - ez csak "
+"meggyengítene minket. Néhány szívós íjász bőven elég lesz..."
 
 #. [message]: speaker=unit_second
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:261
 msgid "RUAAARRRRRRW!"
-msgstr ""
+msgstr "RUAAARRRRRRW!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:278
@@ -3521,23 +4054,25 @@ msgid ""
 "That was the last of the bears, I think... I still wonder what brought them "
 "here; I suppose we will never know."
 msgstr ""
+"Ez volt az utolsó medve, azt hiszem... vajon mi hozhatta ide ezeket a "
+"bestiákat, ezt talán sose tudjuk meg."
 
 #. [unit]: type=Frost Elf Ice Dancer, id=Friysr
 #. [side]: type=Frost Elf Ice Dancer, id=Friysr
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:297
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:96
 msgid "Friysr"
-msgstr ""
+msgstr "Friysr"
 
 #. [message]: id=Friysr
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:304
 msgid "Well met, Alfhelm!"
-msgstr ""
+msgstr "Jó, hogy találkozunk, Alfhelm!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:308
 msgid "Uhm... well met,..?"
-msgstr ""
+msgstr "Ööö.. részemről a szerencse..."
 
 #. [message]: id=Friysr
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:312
@@ -3546,6 +4081,8 @@ msgid ""
 "several weeks. I was on a hunt to slay them, but it seems you have done so "
 "already."
 msgstr ""
+"Friysr vagyok a fagytündék közül. Hetek óta követtem ezeknek a "
+"jegesmedvéknek a nyomát. Magam akartam végezni velük, de te megelőztél."
 
 #. [message]: id=Friysr
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:316
@@ -3554,11 +4091,14 @@ msgid ""
 "have heard of your plight. They remember Ranhilde when she studied there. We "
 "wish to offer you our assistance in finding her."
 msgstr ""
+"Nemcsak azért jöttem, hogy jegesmedvékre vadásszak. Alfenheim urai hallottak "
+"a helyzetedről. Még emlékeznek Ranhildére, aki náluk tanult. Felajánljuk a "
+"szolgálatainkat, hogy megtaláld őt."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:320
 msgid "Your help is welcome. Alas we did not meet sooner. Damn this winter!"
-msgstr ""
+msgstr "Köszönet a segítségért. Sajnos várnunk kell. Ez az átkozott tél!"
 
 #. [message]: id=Friysr
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:324
@@ -3567,33 +4107,36 @@ msgid ""
 "we can leave by boat in only a few days. We may actually gain a few days. "
 "Remember, the Sidhe were immobilized just as you were."
 msgstr ""
+"Ne szitkozódj! A hó hamarosan elolvad, de a jeget hamarabb feltörjük, s pár "
+"nap múlva már kihajózhatunk. Nyerünk ezzel is egy kis időt. Ne feledd, a "
+"sidhék szintén be vannak zárva, ahogy te is."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:328
 msgid "If you claim it. Well, we must prepare for our departure..."
-msgstr ""
+msgstr "Ha meg tudjátok tenni. Nos, mi a magunk részéről készen állunk..."
 
 #. [message]: speaker=unit
 #: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:350
 msgid "Hwaraagh!!"
-msgstr ""
+msgstr "Hwaraagh!!"
 
 #. [scenario]: id=3_3_Unexpected_Aid
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:7
 msgid "Unexpected Aid"
-msgstr ""
+msgstr "Váratlan segítség"
 
 #. [side]: type=Wild Elf Tempest, id=Ayslinn
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:54
 msgid "Ayslinn"
-msgstr ""
+msgstr "Ayslinn"
 
 #. [part]
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:109
 msgid ""
 "So the Issaelfr brought some of their great ice-breaking ships into the "
 "harbor of Portum Frigae."
-msgstr ""
+msgstr "A fagytünde néhány nagy jégtörő hajót hozott Portum Frigae kikötőjébe."
 
 #. [part]
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:112
@@ -3602,11 +4145,14 @@ msgid ""
 "came to the river that runs from Mount Stormkeep to the sea. There we made "
 "to disembark."
 msgstr ""
+"Két nappal később hajóra szálltunk, s a part mentén keletnek tartottunk. "
+"Hamarosan elértük a Stormkeep-hegyről lefutó folyó torkolatát. Itt "
+"partraszálltunk. "
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:129
 msgid "Defeat the Sidhe coastal guardians"
-msgstr ""
+msgstr "Legyőzöd a sidhe parti őrséget"
 
 #. [objective]: condition=lose
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:95
@@ -3616,14 +4162,14 @@ msgstr ""
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:430
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:137
 msgid "Death of Friysr"
-msgstr ""
+msgstr "Friysr meghal"
 
 #. [label]
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:115
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:127
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:149
 msgid "Stormcloud River"
-msgstr ""
+msgstr "Stormcloud-folyó"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:189
@@ -3631,6 +4177,8 @@ msgid ""
 "Quick! Out of the boats. We must get to shore before the elves discover our "
 "presence here."
 msgstr ""
+"Gyorsan, ki a hajóból! Ki kell érnünk a partra, mielőtt a tündék észreveszik "
+"az érkezésünket."
 
 #. [message]: id=Friysr
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:193
@@ -3638,11 +4186,13 @@ msgid ""
 "I fear any attempt at secrecy is hopeless. The Sidhe are sure to be on guard "
 "for our coming."
 msgstr ""
+"Attól tartok, a meglepetésszerű támadás terve hiú ábránd. A sidhék készülnek "
+"a támadásra."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:197
 msgid "Then what hope do we have?"
-msgstr ""
+msgstr "Akkor miben reménykedhetünk?"
 
 #. [message]: id=Friysr
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:201
@@ -3653,11 +4203,16 @@ msgid ""
 "to land here - it is our best chance. So yes... there is some hope of "
 "suprise. But not much."
 msgstr ""
+"Azért itt szálltunk partra, mert ez a legkevésbé védett partszakasz. Most "
+"épp apály van, száraz lábbal partra szállhatunk, de ha jön a dagály, itt "
+"ragadhatunk, s órákat kell itt vesztegelnünk. Innen várják a legkevésbé a "
+"támadást - tehát itt van a legnagyobb esélyünk. És igen... talán "
+"meglephetjük őket. Van rá némi esély."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:205
 msgid "How long do we have before we are trapped?"
-msgstr ""
+msgstr "Mennyi idő múlva jön a dagály?"
 
 #. [message]: id=Friysr
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:209
@@ -3666,16 +4221,20 @@ msgid ""
 "the mainland... if we're still on it, we will live for a time, but once the "
 "waters fall again the Sidhe will swarm over us and we will perish."
 msgstr ""
+"Azt hiszem, körülbelül hat óra múlva. Azután ez a kis sziget el lesz vágva a "
+"szárazföldtől... Ha még ekkor is itt leszünk, kitarthatunk egy ideig, de "
+"amint a víz visszahúzódik, a sidhék tömegesen fognak megrohamozni minket, s "
+"elveszünk."
 
 #. [message]: speaker=unit
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:224
 msgid "Look, Marauders have landed on the beach!"
-msgstr ""
+msgstr "Nézzétek! Martalócok szálltak partra az öbölben!"
 
 #. [message]: id=Friysr
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:228
 msgid "Any element of surprise is lost now. Attack them!"
-msgstr ""
+msgstr "A meglepetés ereje eltűnt. Támadás!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:276
@@ -3683,16 +4242,18 @@ msgid ""
 "Damn! Reinforcements will surely arrive soon, and drive us back into the "
 "sea! We must hurry!"
 msgstr ""
+"Az ördögbe! Hamarosan erősítés érkezik, és visszavetnek minket a tengerhez! "
+"Sietnünk kell!"
 
 #. [message]: id=Ayslinn
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:284
 msgid "Now we have you, dog!"
-msgstr ""
+msgstr "Elkaptunk, kutya!"
 
 #. [message]: id=Ayslinn
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:298
 msgid "Aiyy..."
-msgstr ""
+msgstr "Jajj..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:302
@@ -3700,16 +4261,18 @@ msgid ""
 "We have made it to land, at least, and are safe for now. We may rest the "
 "remainder of the night, but soon we must go south!"
 msgstr ""
+"Partraszálltunk végre, és biztonságban vagyunk. Az éjszaka hátralévő "
+"részében megpihenhetünk, de aztán irány dél!"
 
 #. [message]: id=Friysr
 #: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:306
 msgid "This plan is good. I will stay with you, for a time."
-msgstr ""
+msgstr "Jó ötlet. Egy ideig veletek maradok."
 
 #. [scenario]: id=3_4_The_Western_March
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:7
 msgid "The Western March"
-msgstr ""
+msgstr "Nyugati Határ"
 
 #. [part]
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:63
@@ -3717,6 +4280,8 @@ msgid ""
 "We went south into the forests of Sidhe - the Western March, as they called "
 "it, of that realm. The land of Vaniyera, my enemy."
 msgstr ""
+"Délre mentünk a sidhék erdeibe, vagy ahogy ők nevezték, a Nyugati Határba. "
+"Vaniyera, az ellenségem földjére..."
 
 #. [part]
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:66
@@ -3724,6 +4289,8 @@ msgid ""
 "Rumors reached us of a band of men, trapped in the dark woods, snowed in, in "
 "constant combat with the elves."
 msgstr ""
+"Hírek érkeztek egy csapat emberről, akik állandó küzdelemben a tündékkel és "
+"a hóval, csapdába estek a fák között."
 
 #. [part]
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:69
@@ -3732,6 +4299,10 @@ msgid ""
 "several weeks, undefeated, coming deep into the heart of the realm. When the "
 "snow came the fighting had ceased, for a time, and only now was it clearing."
 msgstr ""
+"Úgy hallottuk, hogy hetek óta kitartanak a sidhékkel szemben, ami szinte "
+"hihetetlen, lévén az ellenség uralta vidék szívében jártak. Ahogy leesett a "
+"hó, a harcok megszűntek, egy időre, de most újra fellángoltak, hogy a hó "
+"elolvadt."
 
 #. [part]
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:72
@@ -3740,42 +4311,48 @@ msgid ""
 "they lived or no, I planned to fight Vaniyera to the death. Though, without "
 "the sword the dwarves had promised me, it seemed unlikely I would survive."
 msgstr ""
+"Ez reményt keltett a szívünkben, hogy talán még élnek. De ha nem... nos, "
+"akár élnek, akár nem, eltökéltem, hogy utolsó leheletemig küzdök Vaniyera "
+"ellen. Habár a kard nélkül, amelyet a törpök ígértek nekem, az életben "
+"maradásomra kevés esély látszott."
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:87
 msgid "Find the source of the sounds of battle"
-msgstr ""
+msgstr "Megtalálod a csata helyszínét"
 
 #. [label]
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:111
 msgid "Sidhe Castle"
-msgstr ""
+msgstr "Sidhe kastély"
 
 #. [label]
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:119
 msgid "Windy Stream"
-msgstr ""
+msgstr "Windy-patak"
 
 #. [label]
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:123
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:127
 msgid "Darkwater Stream"
-msgstr ""
+msgstr "Darkwater-ér"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:177
 msgid "Damn these forests... I can't see anything clearly."
-msgstr ""
+msgstr "Ezek az átkozott fák... Alig látok valamit."
 
 #. [message]: id=Friysr
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:181
 msgid "The enemy may be right in front of us. In fact... listen..."
 msgstr ""
+"Az ellenség alighanem közvetlenül előttünk van. Ténylegesen... hallgassátok "
+"csak..."
 
 #. [message]: speaker=narrator
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:186
 msgid "Far off in the distance, sounds of battle could be heard..."
-msgstr ""
+msgstr "A messze távolból csatazaj hangjai szüremlettek át a fák között..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:265
@@ -3783,6 +4360,8 @@ msgid ""
 "That must be Harn and Ranhilde's men! They can't last much longer against "
 "these elves. Attack!"
 msgstr ""
+"Ezek Harn és Ranhilde emberei! Ennyi idő után sem vesztek még el a tündék "
+"elleni harcban. Roham!"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:271
@@ -3790,11 +4369,13 @@ msgid ""
 "Alfhelm! So you've arrived! Hurry! The enemy is one you know well - "
 "Vaniyera. The Thunderblade."
 msgstr ""
+"Alfhelm! Végre megérkeztél! Siess! Itt van a főellenséged is - Vaniyera, a "
+"mennydörgőpengés."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:275
 msgid "Let us slay him..."
-msgstr ""
+msgstr "Öljük meg..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:305
@@ -3802,52 +4383,55 @@ msgid ""
 "There's some marauder warriors in the distance... it must be Harn and "
 "Ranhilde's men. They may need our help."
 msgstr ""
+"Néhány martalóc harcost látok a távolban... Harn és Ranhilde emberei "
+"lehetnek. Bizonyára segítségre szorulnak."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:311
 msgid "Alfhelm! So you've arrived! Hurry, the battle has already begun."
-msgstr ""
+msgstr "Alfhelm! Végre megérkeztél! Siess, már megindult a csata."
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:320
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:422
 msgid "Defeat elven leader"
-msgstr ""
+msgstr "Legyőzöd a tünde vezért"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:344
 msgid "You've returned, I see..."
-msgstr ""
+msgstr "Látom, visszatértél..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:348
 msgid "Yes."
-msgstr ""
+msgstr "Igen."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:367
 msgid "Who is the enemy, then? I see... More elves!"
-msgstr ""
+msgstr "Kik is az ellenségeink? Látom... még több tünde!"
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:371
 msgid "Yes, but -"
-msgstr ""
+msgstr "Igen, de - "
 
 #. [message]: id=Vaniyera
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:375
 msgid "Ah, son of Alfric, we meet again..."
-msgstr ""
+msgstr "Ah, Alfric fia, ismét találkoztunk..."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:379
 msgid "They are led by Vaniyera. The Thunderblade."
-msgstr ""
+msgstr "Vaniyera vezeti őket, a mennydörgőpengés."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:383
 msgid "I expected to face him eventually... Prepare to die, sidhe coward!"
 msgstr ""
+"Ezt a pillanatot vártam már régóta... Készülj a halálra, hitvány sidhe!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:413
@@ -3855,6 +4439,8 @@ msgid ""
 "The elves are abroad in the forest! I suppose that was no surprise. Come, "
 "let us fight with them. Perhaps Harn and Ranhilde are nearby."
 msgstr ""
+"Az erdőkben mindenütt vannak tündék. Ez nem olyan meglepő. Gyerünk, küzdjünk "
+"meg velük! Talán Harn és Ranhilde is a közelben lehetnek."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:462
@@ -3862,11 +4448,14 @@ msgid ""
 "Wait! No one touch the elf but me. Vaniyera - I would face you in single "
 "combat. Will you accept my challenge?"
 msgstr ""
+"Megállj! Senki ne közelítsen ahhoz a tündéhez, személyesen én fogom "
+"elintézni! Vaniyera - kihívlak párbajra, csak mi ketten vívjunk meg! "
+"Elfogadod?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:470
 msgid "Do not interfere! Vaniyera - do you accept?"
-msgstr ""
+msgstr "Ne avatkozzatok bele! Vaniyera - elfogadod a kihívást?"
 
 #. [message]: id=Vaniyera
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:474
@@ -3874,6 +4463,9 @@ msgid ""
 "Do I accept, you ask? No, I will not be destroyed as my master Leithan was, "
 "and my king Vanimaro before him! What fool do you think I am?"
 msgstr ""
+"Azt kérded, hogy elfogadom-e? Engem nem fogsz lesből megöletni, ahogy a "
+"mesteremmel, Leithannal tették, vagy korábban a királyommal, Vanimeroval! "
+"Hát ennyire együgyűnek nézel?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:478
@@ -3881,6 +4473,8 @@ msgid ""
 "What? You Sidhe claim to be the most noble of all peoples, and yet you do "
 "not accept my challenge?!"
 msgstr ""
+"Micsoda? Te sidhe, aki állítólag a legnemesebb fajból származol, "
+"visszautasítasz egy becsületes párbajkihívást?"
 
 #. [message]: id=Vaniyera
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:482
@@ -3888,16 +4482,18 @@ msgid ""
 "No, I do not. Nor will I wait here for you to swarm over my corpse. Goodbye "
 "once more, Alfhelm the treacherous! And receive a gift in our parting!"
 msgstr ""
+"Nem, abból nem eszel. S nem várom be azt sem, hogy körbezárjatok. Viszlát "
+"legközelebb, Alfhelm, te cselszövő! S egy kis ajándék a részünkről!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4_The_Western_March.cfg:526
 msgid "Wha -"
-msgstr ""
+msgstr "Mics - "
 
 #. [scenario]: id=3_4t_It_Doesnt_Matter_Anyways
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:7
 msgid "It Doesn't Matter Anyways"
-msgstr ""
+msgstr "A megítélés nem változtat a lényegen"
 
 #. [part]
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:38
@@ -3905,6 +4501,8 @@ msgid ""
 "Vaniyera had struck down Ranhilde with a curse and fled. She lived, but not "
 "for long."
 msgstr ""
+"Vaniyera átka lesújtott Ranhildére, maga Vaniyera elszelelt. Királyném még "
+"élt, de már nem sokáig."
 
 #. [part]
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:41
@@ -3913,6 +4511,9 @@ msgid ""
 "understand why I had to duel Vaniyera. But I did not tell him about the "
 "sword that had not yet arrived."
 msgstr ""
+"Ezen az éjszakán Harnnal és Friysrrel haditanácsot tartottunk. Harn "
+"megértette az indítékaimat a párviadallal kapcsolatban, de nem említettem "
+"neki a kardot, ami még nem érkezett meg."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:57
@@ -3920,6 +4521,7 @@ msgid ""
 "But all of this is useless without knowing where Vaniyera heads for. He "
 "could be anywhere."
 msgstr ""
+"De minden hiábavaló, ha nem tudjuk, hogy Vaniyera merre tart. Akárhol lehet."
 
 #. [message]: id=Friysr
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:61
@@ -3928,11 +4530,13 @@ msgid ""
 "He did not disappear, he merely shrouded himself in darkness and walked "
 "through the midst of your people."
 msgstr ""
+"Nem... Vaniyera mágiája leginkább csak szemfényvesztés és ködösítés. Nem "
+"tűnt el, pusztán ködbe burkolózott és átsurrant a harcosaink között."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:65
 msgid "You mean...?"
-msgstr ""
+msgstr "Úgy érted...?"
 
 #. [message]: id=Friysr
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:69
@@ -3940,11 +4544,14 @@ msgid ""
 "Vaniyera is close. We have slain his best warriors, and he cannot regroup "
 "and attack us by himself. He most likely makes for Mount Stormkeep."
 msgstr ""
+"Vaniyera itt van a közelünkben. Megöltük a legjobb harcosait, tehát nem "
+"képes újraszervezni a seregét, és megtámadni minket. Nyilván a Stormkeep-"
+"hegyen van."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:73
 msgid "Then let us chase after him!"
-msgstr ""
+msgstr "Akkor eredjünk a nyomába!"
 
 #. [message]: id=Friysr
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:77
@@ -3954,6 +4561,11 @@ msgid ""
 "likely has not set out on his journey yet, but is hidden in the trees "
 "somewhere. We cannot find him easily until he begins moving."
 msgstr ""
+"Várnunk kell! Éjszaka van és a harcosaink fáradtak. Pihenniük kell. Nem "
+"menetelhetnek napokon keresztül megállás nélkül. Akárhogy is, Vaniyera "
+"meggyengült, mikor elszelelt - s nem tudta elérni a hadjárat célját sem, s "
+"most valahol a fák közt bujkál. Nem találunk rá egykönnyen, csak ha mozgásba "
+"lendül. "
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:81
@@ -3961,26 +4573,28 @@ msgid ""
 "Very well, we wait if we must. But I like it not, and I cannot sleep when "
 "victory and death both lie so close."
 msgstr ""
+"Ha várnunk kell, akkor várunk. De türelmetlen vagyok, nem vagyok képes "
+"aludni, amikor a győzelem, vagy a halál ilyen közel van."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:85
 msgid "If you insist, my lord. But I will retire for the night."
-msgstr ""
+msgstr "Ahogy gondolod, királyom. Engedelmeddel én nyugovóra térek."
 
 #. [message]: id=Friysr
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:89
 msgid "As will I."
-msgstr ""
+msgstr "S én is."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:134
 msgid "So... Alfhelm, what is your plan?..."
-msgstr ""
+msgstr "Nos... Alfhelm, mi a terved?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:138
 msgid "I go tomorrow morning to hunt Vaniyera. I will avenge your death."
-msgstr ""
+msgstr "Holnap hajnalban Vaniyera nyomába eredünk. Megbosszuljuk a halálodat."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:142
@@ -3988,11 +4602,13 @@ msgid ""
 "I am not dead *cough* yet... though his curse is strong, I cannot fight it "
 "much longer..."
 msgstr ""
+"Még nem haltam meg *köhög*... habár ez az átok erős. Soha többé nem fogok "
+"már harcolni..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:146
 msgid "Yes, well."
-msgstr ""
+msgstr "Ez igaz."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:150
@@ -4000,6 +4616,8 @@ msgid ""
 "I must know... how do you expect to defeat the elf-lord?... He is more "
 "powerful than any man... Even if he is a coward..."
 msgstr ""
+"Tudnom kell... Hogy akarsz megölni egy tünde urat?... Sokkal erősebb "
+"bármilyen embernél... Még ha gyáva is..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:154
@@ -4007,46 +4625,50 @@ msgid ""
 "I have made an agreement with the hidden folk. They will deliver me a sword "
 "that will best his. But it has not yet arrived."
 msgstr ""
+"Üzletet kötöttem a rejtőzködő néppel. Kovácsolnak egy kardot, amely erősebb, "
+"mint az övé. Bár még nem szállították le. "
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:158
 msgid "That could work... but do not trust the cavernei..."
-msgstr ""
+msgstr "Ez valóban jó gondolat... de ne bízz túlságosan a barlanglakókban..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:162
 msgid "I have no choice."
-msgstr ""
+msgstr "Nincs más választásom."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:166
 msgid "Perhaps. Well..."
-msgstr ""
+msgstr "Talán. Nos..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:170
 msgid "Yes?"
-msgstr ""
+msgstr "Igen?"
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:174
 msgid "You did right in Lavinium."
-msgstr ""
+msgstr "Nagyszerű tettet hajtottál végre Laviniumban."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:178
 msgid "What? That was foolishness. I -"
-msgstr ""
+msgstr "Micsoda? Őrültség volt. Én - "
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:182
 msgid "Wise, foolish, it doesn't matter anyways... farewell, Alfhelm."
 msgstr ""
+"Nagyszerűség, őrültség - a megítélés nem változtat a lényegen... ég veled, "
+"Alfhelm. "
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:199
 msgid "Damn those dwarves!"
-msgstr ""
+msgstr "Átkozott törpök!"
 
 #. [message]: id=Gali
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:216
@@ -4054,11 +4676,13 @@ msgid ""
 "So do you no longer desire your sword? Or do you say that which you do not "
 "mean? You Men seem to do that often. It is a flaw in your people."
 msgstr ""
+"Talán már nem akarod a kardot? Vagy csak úgy megszokásból szitkozódtál? Ti, "
+"Emberek gyakran cselekszetek így. "
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:220
 msgid "You have returned!"
-msgstr ""
+msgstr "Megjöttél végre!"
 
 #. [message]: id=Gali
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:224
@@ -4066,11 +4690,13 @@ msgid ""
 "'I can have the sword to you before you fight Vaniyera'. You are about to "
 "fight Vaniyera. I am of the hidden folk. I keep my word."
 msgstr ""
+"'Átadom neked a kardot, mielőtt harcba indulnál Vaniyera ellen'. Te szembe "
+"akarsz szállni Vaniyerával. Én a rejtőzködő nép fia vagyok. Állom a szavam. "
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:228
 msgid "I am sorry I doubted you."
-msgstr ""
+msgstr "Bocsáss meg, hogy kételkedni kezdtem benned."
 
 #. [message]: id=Gali
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:232
@@ -4079,13 +4705,16 @@ msgid ""
 "depths of the earth. It has few ornaments - you gave us little time. But it "
 "will do its job."
 msgstr ""
+"Értékelem az őszinteségedet. Jól van. Itt a kard. A föld mélyén található "
+"ércekből kovácsoltam. Néhány mintát is tettem rá - ami a szűkre szabott "
+"időbe belefért. De a küldetését teljesíteni fogja."
 
 #. [effect]: type=blade
 #. [object]: id=stormbreaker
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:236
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:245
 msgid "Stormbreaker"
-msgstr ""
+msgstr "Vihartörő"
 
 #. [object]: id=stormbreaker
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:239
@@ -4095,17 +4724,23 @@ msgid ""
 "when struck with a thunderblade of the Sidhe, but rather will destroy the "
 "opposing sword."
 msgstr ""
+"A Vihartörőt a barlanglakók kovácsolták, a rejtőzködő nép fiai egyenesen a "
+"martalóc úr, Alfhelm kérésére. Rendkívüli képessége, hogy a sidhék "
+"mennydörgő pengéje sem képes szétzúzni, sőt még ez töri össze a támadó "
+"pengéjét."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:255
 msgid ""
 "That is all I ask. That you for your aid, Runesmith Gali. I am satisfied."
 msgstr ""
+"Ennyi nekem elég. Pontosan ezt kértem tőled, Gali mester. Meg vagyok "
+"elégedve."
 
 #. [scenario]: id=3_5_Old_Friends
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:8
 msgid "Old Friends"
-msgstr ""
+msgstr "Öreg barátok"
 
 #. [part]
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:90
@@ -4113,6 +4748,8 @@ msgid ""
 "Vaniyera was gone, but not vanished this time. We knew he would flee "
 "eastward towards Stormkeep."
 msgstr ""
+"Vaniyera megszökött, de nem tűnt el végérvényesen. Tudtuk, hogy kelet felé, "
+"a Stormkeep-hegyre kellett menekülnie."
 
 #. [part]
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:93
@@ -4121,26 +4758,28 @@ msgid ""
 "remained behind to secure the fortress of Vaniyera, and Ranhilde, who had "
 "died."
 msgstr ""
+"Másnap hajnalban az üldözésére indultunk... Harn és Friysr hátramaradtak, "
+"hogy Vaniyera erődjét biztonságban tudhassuk, míg Ranhilde meghalt."
 
 #. [objective]: condition=win
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:107
 msgid "Attack Vaniyera with Alfhelm"
-msgstr ""
+msgstr "Alfhelm megvív Vaniyerával"
 
 #. [objective]: condition=lose
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:115
 msgid "Cowardly attack Vaniyera with other units"
-msgstr ""
+msgstr "Gyáván más egységet küldesz Vaniyera megtámadására"
 
 #. [label]
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:131
 msgid "Mount Darkwater"
-msgstr ""
+msgstr "Darkwater-hegy"
 
 #. [label]
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:135
 msgid "Castle of Vaniyera"
-msgstr ""
+msgstr "Vaniyera kastélya"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:141
@@ -4148,6 +4787,8 @@ msgid ""
 "We have almost caught him! Thunderblade Vaniyera, acknowledge me and accept "
 "my challenge of single combat."
 msgstr ""
+"Majdnem elkaptuk! Vaniyera, te mennydörgőpengés, higgy nekem, és állj ki "
+"ellenem párbajra!"
 
 #. [message]: id=Vaniyera
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:145
@@ -4155,26 +4796,28 @@ msgid ""
 "Single combat? You mean the single combat that gave my master Leithan four "
 "arrows in his back? Ha!"
 msgstr ""
+"Párbaj? Olyan párbajra gondolsz, amilyent a mesterem, Leithan vívott, s négy "
+"nyílvesszővel a hátában végezte? Ha!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:149
 msgid "You will duel me, whether you will or no!"
-msgstr ""
+msgstr "Akkor is meg fogsz vívni velem, akár akarod, akár nem!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:154
 msgid "(It is strange that he is so cowardly now of all times...)"
-msgstr ""
+msgstr "(Különös, hogy minden alkalommal ilyen gyáván menekül...)"
 
 #. [message]
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:165
 msgid "Iletaidemei 'a etaucavei!"
-msgstr ""
+msgstr "Iletaidemei 'a etaucavei!"
 
 #. [message]: role=terrified
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:176
 msgid "Gods! What is that beast?!"
-msgstr ""
+msgstr "Te jó ég! Miféle szörnyűség ez itt előttünk?"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:180
@@ -4182,16 +4825,18 @@ msgid ""
 "Not a beast; a fallen spirit come back to life. This is fearsome magic... "
 "but it will not help you, Vaniyera!"
 msgstr ""
+"Nem szörny az, csak egy elesett harcos szelleme kelt életre. Félelmetes "
+"mágia... de ez sem fog megmenteni, Vaniyera!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:196
 msgid "Do not attack him!"
-msgstr ""
+msgstr "Ne támadd meg!"
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:213
 msgid "I have caught you, Vaniyera! Now, will you face me?"
-msgstr ""
+msgstr "Bekerítettünk Vaniyera! Most már kiállsz ellenem?"
 
 #. [message]: id=Vaniyera
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:217
@@ -4199,21 +4844,23 @@ msgid ""
 "It seems I have no choice. Very well - draw sword! I'll kill you like I did "
 "your bitch!"
 msgstr ""
+"Úgy látom, nincs más lehetőségem. Jól van - elő a kardokkal! Megöllek, ahogy "
+"a lotyóddal is tettem!"
 
 #. [message]: id=Vaniyera
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:228
 msgid "My sword... it has broken..."
-msgstr ""
+msgstr "A kardom... eltört..."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_5_Old_Friends.cfg:239
 msgid "Well... my lady has been avenged."
-msgstr ""
+msgstr "Végre... Bosszút álltam a királynőmért!"
 
 #. [scenario]: id=3_Epilogue
 #: Alfhelm/scenarios/3_Epilogue.cfg:8
 msgid "Part III Epilogue"
-msgstr ""
+msgstr "III. rész Epilógus"
 
 #. [part]
 #: Alfhelm/scenarios/3_Epilogue.cfg:37
@@ -4221,6 +4868,7 @@ msgid ""
 "Stormbreaker had broken the Thunderblade. Vaniyera had fallen. Revenge was "
 "mine."
 msgstr ""
+"A Vihartörő eltörte a mennydörgő pengét. Vaniyera meghalt. Bosszút álltam."
 
 #. [part]
 #: Alfhelm/scenarios/3_Epilogue.cfg:40
@@ -4229,6 +4877,9 @@ msgid ""
 "people, and my queen. I would not blame Erda Bardssen if - as I suspected - "
 "he would refuse to hand the throne back over to one such as myself."
 msgstr ""
+"De mégis... elvesztettem a becsületemet. Nem tudtam megvédeni az országomat, "
+"a népemet és a királynőmet. S nem kárhoztathatom Erda Bardssent, ha nem "
+"volna hajlandó a trónt visszaadni egy magamfajtának. "
 
 #. [part]
 #: Alfhelm/scenarios/3_Epilogue.cfg:43
@@ -4237,6 +4888,9 @@ msgid ""
 "The kingship, really, had always been but a means to an end, and now both "
 "ends were reached. I had no more need of it."
 msgstr ""
+"De nem is vonzott a dolog. Nem akartam már uralkodni sem. A királyság, "
+"valójában csak egy eszköz volt, hogy elérjem a célomat. S most, hogy elértem "
+"a célt, nincs rá többet szükségem."
 
 #. [part]
 #: Alfhelm/scenarios/3_Epilogue.cfg:46
@@ -4245,6 +4899,9 @@ msgid ""
 "reins to the Bardlings. I was to blame for innumerable deaths, and the "
 "people would punish me if I did not punish myself."
 msgstr ""
+"De elvesztettem a becsületemet is. Nem térhetek vissza a városba, és "
+"ruházhatom át a hatalmat a Bardlingekre. Számtalan halál szárad a lelkemen, "
+"s az emberek megbüntetnének, ha én nem ítélem el magam."
 
 #. [part]
 #: Alfhelm/scenarios/3_Epilogue.cfg:49
@@ -4252,6 +4909,8 @@ msgid ""
 "So Harn Bernson counselled me. Accept responsibility and die reclaiming "
 "honor."
 msgstr ""
+"Harn Bernson tanácsolta ezt nekem. Vállalni a felelősséget és meghalni, hogy "
+"visszanyerjem a becsületemet."
 
 #. [part]
 #: Alfhelm/scenarios/3_Epilogue.cfg:52
@@ -4260,6 +4919,9 @@ msgid ""
 "said, and what difference would a few years make? I have lived out almost "
 "half of my three-score and ten."
 msgstr ""
+"Friysr, a fagytünde ugyanezt mondta. Az ember élete rövid, mondta, s az a "
+"pár év, ami várna még rám, nem sokat nyom a latban. Már leéltem a nekem "
+"kiszabott idő felét."
 
 #. [part]
 #: Alfhelm/scenarios/3_Epilogue.cfg:55
@@ -4267,6 +4929,8 @@ msgid ""
 "But I will not do this thing. Neither will I return with Harn to Marauderdom "
 "to face the scorn of the people."
 msgstr ""
+"Csakhogy ez nem fog megtörténni. S nem is térek vissza Harnnal "
+"Martalócországba, hogy az emberek céltáblájává váljak."
 
 #. [part]
 #: Alfhelm/scenarios/3_Epilogue.cfg:58
@@ -4275,6 +4939,9 @@ msgid ""
 "none live on, man or elf. I make my way there, to live out the remainder of "
 "my life."
 msgstr ""
+"Hallottam, hogy van egy kis sziget az Arendia-folyó torkolatánál, ahol nem "
+"lakik senki, se ember, se tünde. Oda fogok menni, hogy életem hátralévő "
+"részét ott töltsem. "
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_Epilogue.cfg:71
@@ -4282,41 +4949,43 @@ msgid ""
 "I have lived through snow and fire; through forest, swamp and farmland I "
 "have come."
 msgstr ""
+"Túléltem a havat és a tüzet; s túléltem az erdei, a lápi és mezei csatákat "
+"is."
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/3_Epilogue.cfg:75
 msgid "But I will roam no more, in this place I will abide until I perish."
-msgstr ""
+msgstr "De többet már nem akarok háborúzni, itt várom be a végemet. "
 
 #. [message]: id=Alfhelm
 #: Alfhelm/scenarios/utils/utils.cfg:63
 msgid "Gahhh..."
-msgstr ""
+msgstr "Gahhh..."
 
 #. [message]: id=Harn
 #: Alfhelm/scenarios/utils/utils.cfg:76
 msgid "Argh!..."
-msgstr ""
+msgstr "Argh!..."
 
 #. [message]: id=Ranhilde
 #: Alfhelm/scenarios/utils/utils.cfg:89
 msgid "Eei..."
-msgstr ""
+msgstr "Eei..."
 
 #. [message]: id=Erda
 #: Alfhelm/scenarios/utils/utils.cfg:102
 msgid "Uugh..."
-msgstr ""
+msgstr "Uugh..."
 
 #. [message]: id=Friysr
 #: Alfhelm/scenarios/utils/utils.cfg:115
 msgid "Iyssss..."
-msgstr ""
+msgstr "Iyssss..."
 
 #. [hides]: id=snowwhite
 #: Alfhelm/scenarios/utils/utils.cfg:240 Alfhelm/scenarios/utils/utils.cfg:241
 msgid "snow-white"
-msgstr ""
+msgstr "hószín"
 
 #. [hides]: id=snowwhite
 #: Alfhelm/scenarios/utils/utils.cfg:245 Alfhelm/scenarios/utils/utils.cfg:249
@@ -4328,11 +4997,17 @@ msgid ""
 "units next to it. Any enemy unit that first discovers this unit immediately "
 "loses all its remaining movement."
 msgstr ""
+"Hószín:\n"
+" Ez az egység elrejtőzhet a tundrán, s ellenségei előtt láthatatlan "
+"maradhat.\n"
+"\n"
+" Az ellenséges egység, amely észreveszi ezt az egységet, elveszti "
+"mozgáspontjait."
 
 #. [unit_type]: id=Alfhelm Jarl, race=marauder
 #: Alfhelm/units/Alfhelm_Jarl.cfg:5
 msgid "Jarl"
-msgstr ""
+msgstr "Gróf"
 
 #. [unit_type]: id=Alfhelm Jarl, race=marauder
 #: Alfhelm/units/Alfhelm_Jarl.cfg:21
@@ -4341,17 +5016,20 @@ msgid ""
 "and away from the field and often ruling in his stead when the Lord must be "
 "away. If a lord dies heirless, often it is the jarl who takes his place."
 msgstr ""
+"A gróf a martalóc urak jobbkezei, csatában és a mindennapokban tanácsaikkal "
+"szolgálják uraikat, s uruk távollétében irányítják birtokaikat. Ha egy úr "
+"örökös nélkül hal meg, gyakran a grófjuk lép a helyébe."
 
 #. [attack]: type=blade
 #: Alfhelm/units/Alfhelm_Lord.cfg:26 Alfhelm/units/Alfhelm_Jarl.cfg:25
 #: Alfhelm/units/Alfhelm_Warrior.cfg:50
 msgid "sword"
-msgstr ""
+msgstr "kard"
 
 #. [unit_type]: id=Alfhelm Lord, race=marauder
 #: Alfhelm/units/Alfhelm_Lord.cfg:5
 msgid "Lord"
-msgstr ""
+msgstr "Úr"
 
 #. [unit_type]: id=Alfhelm Lord, race=marauder
 #: Alfhelm/units/Alfhelm_Lord.cfg:22
@@ -4364,6 +5042,14 @@ msgid ""
 "death. Many 'civilized' generals have underestimated the Marauder Lord's "
 "wits and tactics, and paid for their mistake with their lives."
 msgstr ""
+"Nagyon kevés olyan martalóc van, aki elég képzett ahhoz, hogy kiérdemelje az "
+"úr titulust. A martalóc úr népe legerősebb tagja, s harci képességei is "
+"kemény próbának vettetnek alá, mivel számos martalóc úgy éri el ezt a címet, "
+"hogy előbb törzse legkiválóbb bajnoka lesz. Hősies tettei és karizmája "
+"példaként szolgál a többi martalóc számára is, hogy keményebben harcoljon "
+"törzséért, s haláláig harcoljon. Számos 'civilizált' tábornok becsülte alá "
+"már a martalóc urak taktikai és észbeli képességeit, s fizettek életükkel "
+"tévedésükért. "
 
 #. [unit_type]: id=Alfhelm Warrior, race=marauder
 #: Alfhelm/units/Alfhelm_Warrior.cfg:18
@@ -4375,8 +5061,14 @@ msgid ""
 "will live forever, drinking and feasting with the gods; it is this that "
 "gives them their fearlessness when fighting."
 msgstr ""
+"A harcosok alkotják a martalóc hadseregek gerincét. Nagyon erősek és könnyű "
+"fegyverzetüknek köszönhetően gyorsak is, hamar elérik a frontvonalat, s az "
+"útjukba kerülő ellenség nehezen menekülhet el ezek elől a fürge és erős "
+"emberek elől. Hitük szerint haláluk után a mennybekerülnek, s örök életükben "
+"az istenekkel isznak és mulatoznak, ezért van, hogy félelem nélkül "
+"bocsátkoznak harcba."
 
 #. [unit_type]: id=Wildfire, race=mechanical
 #: Alfhelm/units/Wildfire.cfg:5
 msgid "Wildfire"
-msgstr ""
+msgstr "tűzvész"
